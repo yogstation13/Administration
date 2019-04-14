@@ -153,6 +153,7 @@ Add in a round number!! If they make an appeal and you don't remember the events
 
 Examples of ban reasons:
 
+|||
 | --- | --- |
 | Shit reason | “No reason needed.” |
 | Ok reason | Icky ocky >:^(	  |
