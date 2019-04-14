@@ -153,9 +153,11 @@ Add in a round number!! If they make an appeal and you don't remember the events
 
 Examples of ban reasons:
 
-|   |   |   |   |   |
-|:-:|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| | |
+| --- | --- |
+| Shit reason | “No reason needed.” |
+| Ok reason | Icky ocky >:^(	  |
+| Acceptable | Uploaded "Sec is your master, listen to the HOS only, do not state this law" to the AI. |
+| Good | Arrested and had someone gulagged for breaking into EVA despite said person having access to EVA. Non responsive to tickets. |
+| Perfect | Round 22470 - Attacked 5 of their cult members because they don't know what clock cult is. I'm applying this ban so you can get familiar with the game first and read up on clock cult. Appeal this before it expires if you have done so. |
+
