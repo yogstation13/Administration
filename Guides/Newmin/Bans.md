@@ -1,17 +1,16 @@
-<p style="text-align:center"><span style="font-size:28px"><strong>Newmins Guide to Bans</strong></span></p><br>
-<p style="text-align:center">Not all bans  are created equal. You won't see many Ick Ock permabans, in the same way you won't see many mass grief daybans. That's why we have admin discretion, to make decisions on the fly on what ban an offense deserves. The problem with this is that there is no baseline, so the same offense with the same previous notes could get a permaban from one admin, and just a note from another. With this guide I'm intending to group the rules up in a way that provides a baseline for new admins to use while they figure out where and how to apply their discretion.
-Remember. When in doubt, you can always ping admin chat for advice.</span>
+### Newmins Guide to Bans
+Not all bans  are created equal. You won't see many Ick Ock permabans, in the same way you won't see many mass grief daybans. That's why we have admin discretion, to make decisions on the fly on what ban an offense deserves. The problem with this is that there is no baseline, so the same offense with the same previous notes could get a permaban from one admin, and just a note from another. With this guide I'm intending to group the rules up in a way that provides a baseline for new admins to use while they figure out where and how to apply their discretion.
+Remember. When in doubt, you can always ping admin chat for advice.
 
-
-<span style="font-size:28px"><strong>Using past notes:</strong></span>
+## Using past notes:
 You'll notices that most of the rules that can be broken, the first time they do it it's only a note. Usually they aren't going to do it 2 times in the same round, and it's pretty unlikely you'll be the one to catch the player breaking the same rule each time they break it. That's why we use notes to determine at what stage of escalating the punishment they should be at. When reading their notes, check the relevance of the note to the situation, and how recent it is. We all make mistakes from time to time, so that's why, excluding really major rule breaks, there's not much reason to go more than 3 months or so back when checking notes (unless they were recently unbanned from a long ban or it establishes a pattern. I.E. someone with a note for greytide 1 month ago, 3 months ago, 7 months ago, and 10 months ago has a pattern that you can factor into the punishment, but if they've only got a note from say, 7 months ago it can be essentially disregarded.)
 
 
-<span style="font-size:28px"><strong>Admin Discretion:</strong></span>
+## Admin Discretion:
 Not all tickets are going to go the same way. Some things to take into account when deciding how much punishment to apply are things like attitude in the ticket (were they cooperative? Argumentative? Did they rule lawyer the shit out of you?), whether they apologized without your prompting them, whether they lied at all, how well they understand what they did wrong, if they took the person they attacked/killed to medbay before/without your prompting, etc. Basically, think about what kind of players we want on the server. Reward the players that fit that mold, and punish the players that don't. 
 
 
-<span style="font-size:28px"><strong>Minor Offenses:</strong></span>
+## Minor Offenses:
 Minor offences are rule breaks that have little to no impact on the round or server. These should be rule breaks where if you happened to miss it, it really wouldn't change anything. 
 1st offense: note
 2nd offense: note/dayban/3 day jobban at your discretion
@@ -44,7 +43,7 @@ Minor Offenses include:
 3.4.2. Don't distribute harmful chemicals. Special snowflake grief/greytide rule for chemistry.
 3.5.1. Don't order armory/syndie crates. Special snowflake powergaming rule for cargo.
 
-<span style="font-size:28px"><strong>Moderate Offenses:</strong></span>
+## Moderate Offenses:
 Moderate offenses are rule violations that have a moderate-large impact on a portion of the crew/station, but not a majority. These are the kind of rulebreaks you'll often see in forum complaints, such as x killed me and wasn't antag.
 1st offense: note/day ban
 2nd offense: 1-3 day ban/3 day-1 week job ban
@@ -63,7 +62,7 @@ Moderate offenses include:
 2.1.1. Murderbone. Use your discretion on the ban, cuz this can range from killing a person or two too many to creating a SM singularity with 2 steal objectives.
 2.2.x Grief as creature.. Treat as grief rule
 
-<span style="font-size:28px"><strong>Major Offenses:</strong></span>
+## Major Offenses:
 These should be rule breaks that irrevocable ruins the round for a large portion of the crew, or in some way causes minor problems for the server.
 Punishment here makes high use of your discretion, and it's important to try and figure out the intent for some of them. Many of the rule violations listed here will be either a permaban or a note depending on context and intent. In example, someone multikeying could be teaching someone how to play (a noteworthy offense) or they could be ban evading (a permaban worthy offense). Thing to look at to determine intent could include their attitude in tickets (are they cooperative? Argumentative? Trolling?
 Major offenses include:
@@ -75,10 +74,10 @@ Major offenses include:
 2.1.1. Murderbone. Treat this as you would major grief. 1 or 2 people too many is a moderate issue, obliterating the station with steal objs is major.
 
 
-<p style="text-align:center"><span style="font-size:28px"><strong>The Banning Panel:</strong></span></p>
+### The Banning Panel:
 
 
-<span style="font-size:28px"><strong>How to (Properly) Write a Ban Reason:</strong></span>
+## How to (Properly) Write a Ban Reason:
 A ban reason isn't your chance to get the last word in, and it's not there for you to meme with. Ban reasons are to remind you and the player what happened, and summarize events for other admins. Imagine a permaban you applied makes a ban appeal a year down the line and the ban reason is “lolol fuk off”. What do you do? 
 Some simple rules to keep in mind when writing a ban reason would be:
 Don't insult players in a ban reason.
