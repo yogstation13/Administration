@@ -26,53 +26,53 @@ Note that 2 week ban isn't the max. It takes a while, but with enough repeated m
 
 Minor Offenses include:
 
-0.1 bigotry rule. This rule does not even warrant a PM unless they attempt to get around the filter or post in an unfiltered area 
+- 0.1 bigotry rule. This rule does not even warrant a PM unless they attempt to get around the filter or post in an unfiltered area 
 
-0.3 Ick Ock rule. 
+- 0.3 Ick Ock rule. 
 
-0.6 netspeak/proper IC language rule
+- 0.6 netspeak/proper IC language rule
 
-1.2 greytide rule. Minor greytide can usually be handled IC.
+- 1.2 greytide rule. Minor greytide can usually be handled IC.
 
-1.4 powergaming rule. Collecting items, calling the shuttle, and overdoing the self defense falls under minor, but if they use those items to kill people it may fall into moderate offenses.
+- 1.4 powergaming rule. Collecting items, calling the shuttle, and overdoing the self defense falls under minor, but if they use those items to kill people it may fall into moderate offenses.
 
-1.5 metagame rule. Depending on severity could be bumped to moderate.
+- 1.5 metagame rule. Depending on severity could be bumped to moderate.
 
-1.6 realistic name. Give them a heads up to change their name, appearance ban them if they don't next round.
+- 1.6 realistic name. Give them a heads up to change their name, appearance ban them if they don't next round.
 
-1.8 no suiciding rule. If this is done as important roles such as heads of staff/security, it falls under moderate.
+- 1.8 no suiciding rule. If this is done as important roles such as heads of staff/security, it falls under moderate.
 
-2.1.2 active as antag rule. Odds are they didn't realize they're antag, just let them know if you notice it. Only noteworthy if they're suiciding as antags.
+- 2.1.2 active as antag rule. Odds are they didn't realize they're antag, just let them know if you notice it. Only noteworthy if they're suiciding as antags.
 
-2.1.4. Good abductor rule. If they're killing people it could fall under murderbone.
+- 2.1.4. Good abductor rule. If they're killing people it could fall under murderbone.
 
-2.3.x silicon policy rules.
+- 2.3.x silicon policy rules.
 
-2.4.1 secure the disk as captain.
+- 2.4.1 secure the disk as captain.
 
-2.4.4. Head incompetence. We don't ban for incompetence typically, but CE should know how to set the engine and RD should know how to do research.
+- 2.4.4. Head incompetence. We don't ban for incompetence typically, but CE should know how to set the engine and RD should know how to do research.
 
-3.1.1. Space law as sec. Bumps up to moderate offense if they're executing without permission.
+- 3.1.1. Space law as sec. Bumps up to moderate offense if they're executing without permission.
 
-3.1.2. Armory is for emergencies. Think about this like a special snowflake powergaming rule just for security.
+- 3.1.2. Armory is for emergencies. Think about this like a special snowflake powergaming rule just for security.
 
-3.1.3. Contraband as sec. Security should not be using a desword
+- 3.1.3. Contraband as sec. Security should not be using a desword
 
-3.2.1. Know your job as engi. This is really just to ban people who release the engine on accident a lot.
+- 3.2.1. Know your job as engi. This is really just to ban people who release the engine on accident a lot.
 
-3.2.2. Hardsuits are for work. A special snowflake powergaming rule for engineering/atmos.
+- 3.2.2. Hardsuits are for work. A special snowflake powergaming rule for engineering/atmos.
 
-3.2.3. Don't disable atmos at roundstart. A special snowflake metagaming rule for atmos. 
+- 3.2.3. Don't disable atmos at roundstart. A special snowflake metagaming rule for atmos. 
 
-3.2.4. Don't abuse tcomms. If it's just  annoying it's minor, if it's spamming this bumps up to moderate or even major.
+- 3.2.4. Don't abuse tcomms. If it's just  annoying it's minor, if it's spamming this bumps up to moderate or even major.
 
-3.3.1. Don't abuse genetics. Special snowflake greytiding rule for genetics.
+- 3.3.1. Don't abuse genetics. Special snowflake greytiding rule for genetics.
 
-3.4.1. No harmful chemicals for no reason. Special snowflake powergaming rule for chemistry.
+- 3.4.1. No harmful chemicals for no reason. Special snowflake powergaming rule for chemistry.
 
-3.4.2. Don't distribute harmful chemicals. Special snowflake grief/greytide rule for chemistry.
+- 3.4.2. Don't distribute harmful chemicals. Special snowflake grief/greytide rule for chemistry.
 
-3.5.1. Don't order armory/syndie crates. Special snowflake powergaming rule for cargo.
+- 3.5.1. Don't order armory/syndie crates. Special snowflake powergaming rule for cargo.
 
 
 ### Moderate Offenses:
@@ -89,27 +89,27 @@ Further offenses: can range from a week or two up to a permaban. If the ban woul
 
 Moderate offenses include:
 
-0.2 erotic content. Particularly severe incidents could rate higher.
+- 0.2 erotic content. Particularly severe incidents could rate higher.
 
-0.5 spam/advertise. If the spam gets bad enough that it lags/crashes the server, this is a much higher offense.
+- 0.5 spam/advertise. If the spam gets bad enough that it lags/crashes the server, this is a much higher offense.
 
-0.7 listen to admins. You don't have to deal with people calling you names/being a dick. Feel free to give them a short ban/make a ban longer if they need to cool off.
+- 0.7 listen to admins. You don't have to deal with people calling you names/being a dick. Feel free to give them a short ban/make a ban longer if they need to cool off.
 
-0.8 bug abuse/macros. If it affects the server this is a higher offense.
+- 0.8 bug abuse/macros. If it affects the server this is a higher offense.
 
-1.1 grief. If it affects a majority of the crew (ie multiple max caps or plasma flooding) this may be a higher offense.
+- 1.1 grief. If it affects a majority of the crew (ie multiple max caps or plasma flooding) this may be a higher offense.
 
-1.2 greytide. This is for major greytide that borders on grief, such as rendering large areas uninhabitable.
+- 1.2 greytide. This is for major greytide that borders on grief, such as rendering large areas uninhabitable.
 
-1.3 guns/magic items in wiz round. Treat it as grief
+- 1.3 guns/magic items in wiz round. Treat it as grief
 
-1.4 powergame. Applies when a minor rule break on powergaming is used to grief (ie collecting weapons, then using it to valid hunt and ending up killing multiple innocents)
+- 1.4 powergame. Applies when a minor rule break on powergaming is used to grief (ie collecting weapons, then using it to valid hunt and ending up killing multiple innocents)
 
-1.5 metagaming. Particularly severe cases fit into here. This should really only be when a single person ruins the round of multiple individuals irrevocably as a direct result of their metagaming.
+- 1.5 metagaming. Particularly severe cases fit into here. This should really only be when a single person ruins the round of multiple individuals irrevocably as a direct result of their metagaming.
 
-2.1.1. Murderbone. Use your discretion on the ban, cuz this can range from killing a person or two too many to creating a SM singularity with 2 steal objectives.
+- 2.1.1. Murderbone. Use your discretion on the ban, cuz this can range from killing a person or two too many to creating a SM singularity with 2 steal objectives.
 
-2.2.x Grief as creature.. Treat as grief rule
+- 2.2.x Grief as creature.. Treat as grief rule
 
 
 ### Major Offenses:
@@ -120,17 +120,17 @@ Punishment here makes high use of your discretion, and it's important to try and
 
 Major offenses include:
 
-0.2 erotic content. This is only for the most severe incidents, or for spamming things like wgw
+- 0.2 erotic content. This is only for the most severe incidents, or for spamming things like wgw
 
-0.4 multikeying/ban evading. Ban evading can be most commonly done by getting a job change from the hop, or making a new account to play. Evading a job ban without multikeying is typically escalated to a server ban, where ban evading with multikeying is typically a permaban for all accounts with a sticky ban applied. Multikeying without ban evading will typically result in all but one accounts permabanned, with all notes transferred to the chosen account.
+- 0.4 multikeying/ban evading. Ban evading can be most commonly done by getting a job change from the hop, or making a new account to play. Evading a job ban without multikeying is typically escalated to a server ban, where ban evading with multikeying is typically a permaban for all accounts with a sticky ban applied. Multikeying without ban evading will typically result in all but one accounts permabanned, with all notes transferred to the chosen account.
  
-0.5 spam. If the spam begins to intentionally lag or even crash the server, it fits here.
+- 0.5 spam. If the spam begins to intentionally lag or even crash the server, it fits here.
 
-0.8 bug/macros. If it begins to lag or crash the server, it fits here.
+- 0.8 bug/macros. If it begins to lag or crash the server, it fits here.
 
-1.1 grief. Major grief such as multiple max caps, mass plasma/bz flooding, murderbone viruses, etc can be included here.
+- 1.1 grief. Major grief such as multiple max caps, mass plasma/bz flooding, murderbone viruses, etc can be included here.
 
-2.1.1. Murderbone. Treat this as you would major grief. 1 or 2 people too many is a moderate issue, obliterating the station with steal objs is major.
+- 2.1.1. Murderbone. Treat this as you would major grief. 1 or 2 people too many is a moderate issue, obliterating the station with steal objs is major.
 
 
 ## The Banning Panel:
@@ -142,13 +142,13 @@ A ban reason isn't your chance to get the last word in, and it's not there for y
 Some simple rules to keep in mind when writing a ban reason would be:
 
 
-Don't insult players in a ban reason.
+1. Don't insult players in a ban reason.
 
-Concisely explain what rules were broken, and in what way. (ie “Greytide, Ick Ock. Broke several windows to space for no reason, when he fell out a window and died he tried to ask for a rescue in OOC.”
+2. Concisely explain what rules were broken, and in what way. (ie “Greytide, Ick Ock. Broke several windows to space for no reason, when he fell out a window and died he tried to ask for a rescue in OOC.”
 
-Add in any modifiers that you consider to be noteworthy. (Cooperative in tickets, argumentative, etc.)
+3. Add in any modifiers that you consider to be noteworthy. (Cooperative in tickets, argumentative, etc.)
 
-Add in a round number!! If they make an appeal and you don't remember the events, a round number lets you pull logs to check what happened.
+4. Add in a round number!! If they make an appeal and you don't remember the events, a round number lets you pull logs to check what happened.
 
 
 Examples of ban reasons:
