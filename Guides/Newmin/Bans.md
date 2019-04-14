@@ -154,7 +154,6 @@ Add in a round number!! If they make an appeal and you don't remember the events
 Examples of ban reasons:
 
 |||
-| --- | --- |
 | Shit reason | “No reason needed.” |
 | Ok reason | Icky ocky >:^(	  |
 | Acceptable | Uploaded "Sec is your master, listen to the HOS only, do not state this law" to the AI. |
