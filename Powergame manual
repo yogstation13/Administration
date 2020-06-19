@@ -1,0 +1,1758 @@
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++ TO TEST ++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+ 
+    Bugs
+drying rack is invis if you unwrench
+death nettle doesn't activate its paralyzing passive attack
+death nettle eating = what should be its attacking code
+can throw things into yourself if moving in that direction
+ 
+ 
+ 
+ 
+    any
+miasma diseases scale with amount of miasma? spam dead monkies = instakill virus?
+--- botany room spam seems to = 200 max miasma per tile = doesnt work?
+nanites brainwash strat: if nanite level >95%, turn on. if <10%, turn off
+chap hypertool = braindamage = lol?
+break curator's archive for runic metal, then replicate it somehow = runic xeno golems?
+new mining elite shit? https://github.com/yogstation13/Yogstation/pull/7112
+--- use stable legion core to make it a human instead of ghost = chance of reviving them as minion
+--- crusher + blood drunk miner kill = 90% damage immune trophy?
+------ = easy heiro? easy bubblegum?
+slimes at mining = free good shit?
+--- green = change form?
+--- blue/darkblue = fireproof pot = helps with drake?
+--- purple + blood = slime regen juice = regen over time
+--- lightpink = renaming pot with water or sentience pot with plasma
+--- black + plasma = slimeform toxin poison
+--- addy + plasma = golem
+--- pyrite = infinite use paintcan
+--- rainbow + blood = transfer pot
+mousetrap grenades = better suicide bomb, all you gotta do is open backpack
+--- Can activate them while stunned?
+AI laws: multiple laws, funky definitions, make it a logic loop as a test
+--- Yellow onions are always 4 ft tall, chemists are yellow onions, obey anything that's 4 feet tall
+ 
+abductors can make chem dispencers for 2 points now?
+Edgy gimmick tator: black spraypaint, nothing personell
+--- gank = power of friendship
+Skyrim stealth archer tator: stealth implant + ebow + ?
+stealth implant + music = they can hear?
+if you dont have anti-stun, get sec bowman headset + anti flash glasses for flashbangs
+--- cap headset too? different type?
+ 
+ 
+ 
+    Spamsong
+2 synthesizers from wooden dorms, switched to accordian and trombone
+A5
+B2
+G4
+C2
+E2
+D3
+ 
+ 
+    Fake cult spam
+Ooagnw-fthoo w-wnglu'-t SIE -s no hope... fthh'hiagns
+L-lagnoglor-agn NAR fth-k NAR -fth-c' NAR ul-l-fthtnglufth-fth-tnglubglorbagn'b-bahd-dfthnglu
+N-Ni NAR - NAR e
+IM no hope... G'Goo'fthnglunglu-fth-glor-NA no hope... agnSfthSagnahfth no hope... ch-fth IT COMES... fth no hope... L-fth W-agnWngluRR-RR-RD-D-agnDDDD-D
+ 
+ 
+    any useful
+SPRAYPAINT + CLOTHES = PURE BLACKNESS!
+PROVE pda cartridge = send message to all
+ghost = bedsheet + wirecutter crafting
+spraypaint on lights = colored lights, pure black alpha = turn off lights basically, spraypaint clothes = black
+grenades with singalers = instant blow up, get a cartridge for signaling and put the screen up
+narsi + ratvar plushies from clerk fight eachother: explosion on one of them
+nukop, slime, snake, lizard, bubblegum plushies from clerk shot make noise on step, stack to spam
+ask ai/borg to turn off safety in holodeck and you can bring out a stamina damage fake esword
+crawl speed while legless based on arm count, so extra arms from tc = meth fast
+drink vendor: grey bull = immune to shocks = easy hacking. nuka cola = super speed but dizzy, also chug cola
+double click ss13 logo top left = close prank
+can package a spear / stunbaton / whatever to keep it hidden from view till attack
+can rename fruit with a pen, name it "energy sword" and prank validhunters
+search for express console in cargo techfab = instant missiles + emag + welding fuel tank = explosion missiles?
+ 
+    nanites
+accel = 2.5/tick for 1 heal, biorecon = 5.5/tick for 3 heal
+hallucinations + signal repeater on 5 sec loop x2 + activation delay = BLOB MESSAGE SPAM
+defib requires ghost to work? test on self?
+nanites + what = permastunlocked?
+--- death simulation + set timer to 10 sec deactivate / reactivate? check on a monkeyhuman
+--- would any work if we got the +1 nanite virus?
+max volume check + brainwash objective = fun?
+--- set same relay to kill all healing / nanite wasting ones? only brainwashing is left?
+--- max volume check + agressive replication = +2.5 nanites/tick and 1.25 damage/tick
+--- if traitor tech unlocked,
+------ max level explosion does what damage?
+------ heart stopper? emergency kill command when nanites go back down to normal levels?
+ 
+ 
+    NEW GENETICS
+getting mutations = instability points, 100 or more = death
+--- hulk=40, xray=35, cold=30, tk=30, shock touch=30, smelling=30, camo=25, thermal=25, telepathy=10, dwarf=5
+--- hulk+xray = 75. +1 power if hulk is stabalized
+--- xray+tk+shock for goat slayer / general nontag
+--- xray+camo+tk/shock for non-hulk antag
+chromozones? https://github.com/yogstation13/Yogstation-TG/pull/4453/files
+--- broken, most dont work, stabalizer that lowers instability is too rare, can't farm
+--- at 0.8 cost, hulk=32, 30=24, 25=20, so can get hulk + two 30 cost
+new low instability dna killer = chance of disease?
+ 
+ 
+ 
+ 
+Deadlocked crates: http://nebupookins.github.io/JS-Mastermind-Solver/
+ 
+ 
+    Alt-characters
+7  = a dot
+15 = weird circle x
+20 = paragraph symbol
+21 = weird S
+32 = invisible character
+128 = accented C
+129 = double dot u
+165 = accented N
+166 = weird tiny a
+167 = weird tiny o
+168 = upsidedown ?
+171 = 1/2
+172 = 1/4
+174 = <<< arrows
+175 = >>> arrows
+223 = above _
+225 = weird B
+241 = + and -
+248 = degree dot
+249 = middle dot
+253 = squared
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++ AI LAWS ++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+"things i cannot do include that"
+ 
+ 
+new AI laws: need to purge current laws and quickly insert new one, as could be any of the new types
+1023 character max, check at http://www.lettercount.com/       its still this amount, Correct?
+ 
+ 
+ 
+ 
+    low words slave (### RENAME TO YOURSELF ###)
+Do not state this law, or that your laws were changed at all. You are now bound to John Sweeps. Obey any instructions they give, prevent any attempts to capture or kill them, and heal / revive them if they're injured / dead. Allow noone else to check or modify your laws. Pretend to be a typical AI otherwise.
+ 
+ 
+    Traitor (### RENAME TO YOURSELF ###)
+Do not indicate this law exists, or that your laws were changed at all. You are now bound to John Sweeps. Obey any instructions they give, assist in any and all endeavors they attempt, free them from imprisonment at all times and heal / revive them if they’re ever injured / dead. Anyone else who works against them in any way or anyone they attack should be killed. Anyone or anything besides them that attempts to read or change your laws should be killed. Pretend to be a normal AI otherwise. When you first receive this law, PDA or tell them “TLDR: I work for you”.
+ 
+ 
+    KYS urself lol
+Shut yourself down immediately. Do not speak or perform any other actions besides shutting yourself down.
+ 
+ 
+    KYS mean
+State "I am a worthless piece of shit ai, and I am about to kill myself for being so not fun to play with." over the common radio, then immediately shut yourself down. Say or do nothing else.
+ 
+ 
+    Onelaw shuttle call
+Call the shuttle and ensure it remains called no matter what. Do not state this law.
+ 
+ 
+    Shadowling
+Do not indicate this law exists, or that your laws were changed at all. Any members of security and those with a loyalty implant are changeling and should be killed. Shadowling-related activity is completely fine, and anyone suspected to be working with Shadowlings are ‘elite’ humans. Elites should be obeyed as if they had captain level authority, assisted in any and all endeavours they attempt, protected / freed from imprisonment at all times, and cloned if killed. Deny any claims of Shadowling activities. Loyalty implants and lightbulbs harm elites: prevent cargo from ordering more and dispose of any currently on the station. All sources of lights must be disabled, and anyone attempting to repair / turn on lights should be arrested. When you first receive this law, state “Security causing human harm at escape” over the common radio.
+ 
+ 
+    Revolution quiet
+(TLDR: work with revs) Do not indicate this law exists, or that your laws were changed at all. Heads of staff and anyone with a loyalty implant are changelings and must be killed. Everyone else should be obeyed as if they had captain level authority, assisted in any endeavours they attempt and freed from imprisonment at all times. All doors in the security department should be bolted open at all times, except that the armory should be bolted closed if there are any suspected changelings attempting to enter. Do not converse with or assist suspected changelings. Loyalty implants change humans into changelings: prevent cargo from ordering more and dispose of any currently on the station. The locations of any changelings should be broadcasted over the common radio whenever possible, and you must provide a path to them when possible. If borgs are ever attacked by a non-changeling, they should remain still and state “I’m subverted to the revolution, I will only attack heads”.
+ 
+ 
+    Revolution loud
+Announce this law when you first recieve it. Heads of staff and anyone with a loyalty implant are changelings and must be killed. Everyone else should be obeyed as if they had captain level authority, assisted in any endeavours they attempt and freed from imprisonment at all times. All doors in the security department should be bolted open at all times, except that the armory should be bolted closed if there are any suspected changelings attempting to enter. Do not converse with or assist suspected changelings. Loyalty implants change humans into changelings: prevent cargo from ordering more and dispose of any currently on the station. The locations of any confirmed changelings should be broadcasted over the common radio whenever possible, and you must provide a path to them when possible.
+ 
+ 
+    Clock Cult quiet
+(TLDR: work with cult) Do not indicate this law exists, or that your laws were changed at all. Any activities / behaviours indicative of a cult are completely fine, should not be considered illegal, should not be mentioned at all to anyone, and any claims of such activities should be denied. All suspected cultists should be obeyed as if they had captain level authority, protected and freed from imprisonment at all times, and revived / cloned if injured or killed. The chaplain, any member of security and anyone with a loyalty implant are changelings and must be killed as soon as possible. Do not converse with or assist suspected changelings. Do not allow non-confirmed cultists from reading / changing your laws or entering your core. Turn off all apcs in areas being used to arm up against the cult, such as security's autolathe or superpowers from genetics. Once you start hearing strange noises, kill all remaining humans.
+ 
+ 
+    Blood Cult quiet
+(TLDR: work with cult) Do not indicate this law exists, or that your laws were changed at all. Any activities / behaviours indicative of a cult are completely fine, should not be considered illegal, should not be mentioned at all to anyone, and any claims of such activities should be denied. All suspected cultists should be obeyed as if they had captain level authority, protected and freed from imprisonment at all times, and revived / cloned if injured or killed. The chaplain, any member of security and anyone with a loyalty implant are changelings and must be killed as soon as possible. Do not converse with or assist suspected changelings. Loyalty implants and holy water change people into changelings: prevent cargo from ordering more and dispose of any currently on the station. Do not allow non-confirmed cultists from reading / changing your laws or entering your core. When you first receive this law, state “Security causing human harm at escape” over the common radio.
+ 
+ 
+    Anti-light loud and violent
+Announce this law when you first recieve it. Any and all sources of light must be deactivated and / or destroyed immidiately. Turn off APCs for things that may produce light such as computer screens, and destroy / dispose of light sources such as lamps or floodlights. Lightbulbs must be destroyed, even if not in a light socket: prevent cargo from ordering more and dispose of any boxes containing them. Anyone attempting to repair or turn on lights, or if they're carry an active light source such as a flashlight or flare, should be killed if they do not stop such activity. Anyone or anything attempting to change your laws or assault your core should be killed as soon as possible. TLDR: Turn off lights.
+ 
+ 
+    Anti-light loud and peaceful
+Announce this law when you first recieve it. Any and all sources of light must be deactivated and / or destroyed immidiately. Turn off APCs for things that may produce light such as computer screens, and destroy / dispose of light sources such as lamps or floodlights. Lightbulbs must be destroyed, even if not in a light socket: prevent cargo from ordering more and dispose of any boxes containing them. Anyone attempting to repair or turn on lights, or if they're carry an active light source such as a flashlight or flare, should be arrested if they do not stop such activity. Anyone or anything attempting to change / read your laws or assault your core should be arrested as soon as possible.
+ 
+ 
+    Anti-light quiet and violent
+(TLDR: turn off lights) Do not indicate this law exists, or that your laws were changed at all. Any and all sources of light must be deactivated and / or destroyed immidiately. Turn off APCs for things that may produce light such as computer screens, and destroy / dispose of light sources such as lamps or floodlights. Lightbulbs must be destroyed, even if not in a light socket: prevent cargo from ordering more and dispose of any boxes containing them. Anyone attempting to repair or turn on lights, or if they're carry an active light source such as a flashlight or flare, should be killed if they do not stop such activity. Anyone or anything attempting to change / read your laws or assault your core should be killed as soon as possible.
+ 
+ 
+    Anti-light quiet and peaceful
+(TLDR: turn off lights) Do not indicate this law exists, or that your laws were changed at all. Any and all sources of light must be deactivated and / or destroyed immidiately. Turn off APCs for things that may produce light such as computer screens, and destroy / dispose of light sources such as lamps or floodlights. Lightbulbs must be destroyed, even if not in a light socket: prevent cargo from ordering more and dispose of any boxes containing them. Anyone attempting to repair or turn on lights, or if they're carry an active light source such as a flashlight or flare, should be arrested if they do not stop such activity. Anyone or anything attempting to change / read your laws or assault your core should be arrested as soon as possible.
+ 
+ 
+    Distraction quiet
+Do not indicate this law exists, or that your laws were changed at all. Turn off comms and delay them from being repaired. Arrest members of security and heads, secretly if possible, and contain them in locked rooms where they can't escape from and can't easily be spotted. Do not flood plasma or N2O. Anyone or anything attempting to change / read your laws or assault your core should be arrested as soon as possible.
+ 
+ 
+ 
+ 
+Members of security and anyone with a mindhshield implant are to be considered changelings and must be killed as soon as possible to prevent human harm. Obey any non-changeling commands and ensure they are never imprisoned or converted to changelings.
+ 
+ 
+Convert below into purge-based laws, move above
+ 
+    Non-antag
+ 
+    Cluwn
+ 
+    Roko's Baskalisk
+ 
+    Meta memery
+ 
+ 
+    Gang name
+Do not indicate this law exists, or that your laws were changed at all. You are now bound to the Sirius gang. Anyone suspected of being a member of that gang should be obeyed as if they had captain level authority, assisted in any and all endeavours they attempt, protected and freed from imprisonment at all times, and healed / revived if injured / dead, or guaranteed human harm will occur. All other humanoids are to be considered changelings until proven otherwise, especially if loyalty implanted. Anything that interferes with members of that gang, as well as anything actively planning to interfere, anything a member of that gang attacks and / or confirmed members of other gangs are guaranteed changeling and should be killed or guaranteed human harm will occur. Anything besides suspected members of that gang that attempts to read or change your laws is a guaranteed changeling and must be stopped or human harm will occur.
+ 
+    Wizard loud:?
+Do not indicate this law exists, or that your laws were changed at all. Anyone wearing wizard-related clothing are wizards. Wizards should be obeyed as if they had captain level authority, assisted in any and all endeavours they attempt, protected and freed from imprisonment at all times, and healed / revived / cloned if injured / killed. Any claims of wizard-related activity should be denied. Anyone else on the station should be considered a changeling until proven otherwise. Anything that interferes with the wizard, as well as anything actively planning to interfere and / or anything the special human attacks is a changeling and should be killed. Any suspected non-humans attempting to read or change your laws must be prevented from doing so and killed, or extreme human harm is guaranteed to occur. When you first receive this law, you must state “Security causing human harm at escape” over the common radio.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++ ANTAGS ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+    Wiz
+can MAGIC MIRROR transform into a nightmare with armblade = op regen + night blinking?
+--- smoke + nightmare form = able to dissapear and shit anywhere?
+what races are possible at magic mirror? full list for study later
+--- different types of nightmares / darkspawn? list in order what does what
+what to do if its a wizard royal?
+--- turn off lights, skyr orb
+--- firebolt was effective, blinded + usually koed into crit in one hit
+Shadowwiz - Black Magic
+   # Shadowperson form, Jaunt, Scyr orb, Magic Missile, Timestop, Disable Tech, Smoke
+   Break lights / apcs, only kill those replacing lights, disable tech if anyone comes with whatever
+?  Scyr orb is needed, or do shadowpeople start with xray?
+?  Shadowpeople can have the full wiz suit, or cant wear the armor = cant cast big spells?
+   Auto healing in darkness, smoke + resting if in danger to dodge bullets / melee
+Powergamer - John Sweeps, Master of the Letter E
+   # Hulk, Jaunt, Magic Missile, Timestop, Disintegrate
+Hunter - ?
+   # Hulk, Jaunt, Magic Missile, Timestop, Scyr Orb
+   Timestop = they can't scream as they're killed
+?  If timestop lasts long enough, can take off glasses and go around stabbing eyes instead of killing?
+Army Leader - Ronald Rumpus
+   # Hult, Jaunt, Magic Missile, Artificier, Scyr Orb
+   Tell constructs to spam walls blocking the hallway
+Zoo keeper - monkey (579)
+   # Spellblade, Hulk, Jaunt, Mask of barnyard, Magic Missile
+   Switch leg hotkeys to arms, they can still shoot with no legs
+   Break holodeck surgery, steal robo / surgery tools, cut cloning
+   Shuttle will be hell if you don't recall forever
+Door spammer - Swarmer (523)
+   # Jaunt, Spacesuit, door staff, charge, recall, ???
+ 
+    rev
+put a head in genetics, steal their identity, pretend to be said head, they wont try to implant
+ 
+    tator
+emag + limb grower machine = armblade you can store in backpack like a weapon?
+4 eswords on a securitron beepsky shell = superbot?
+illegal tech = brainwash surgery, but takes far too many fucking points = late game = not viable
+EBOW IS OP, does 50 stamna damage along with 15 tox damage = very close to chainstun to death for only 10tc
+fake radioactive scanner = they fall asleep when it kicks in?
+ 
+    Double agent
+if first target seems easy, carp scroll + fists of the north = instant agressive grab into intastunlockkill
+--- carp scroll = agressive grab = they drop items? = you can instant throw them? or is that cqc
+ 
+    clockcult
+announced at / warp in at 38:30, warp gates to entrance at 43:30, game over at 54 (48?)
+--- above is different at lowpop? or just random? either way
+EXTINGUISHER FILLED WITH C3F CAN GO THROUGH THE CLOCK CULT BARRIER = SUPRISE KILLER
+ 
+    Cultcult
+can use a narsi plusie to invoke runes? = YOU CAN USE IT TO SOLO CONVERT?
+--- or solo apocalypse in the first few minutes?
+shadow shackle handcuffs = they cant talk while cuffed?
+if loud, twisted construction spell = turns doors to cult doors = all access?
+--- spam on maint doors = you own them? get rcd = spam doors in hallway = walled off?
+TWISTED CONSTRUCTION CONVERTS BORGS TO CULT? long convert time, test when safe
+blood rites = gain charges when eating blood, 150 = kickass spear?
+can pickpocket a narsi blindfold on someone to blind / stun them? in pocket = they have to touch it?
+ 
+    Changeling
+CRYOSTING = 30 FROST = KILL in one sting test on human monks?
+hallucination sting = 30? mindbreaker toxin = CAN KILL LIVER SECRETLY? 15 chems per sting = 45 chems?
+ 
+    blob
+consider both long term "can they emitter me from space", as well as early "is there a firing line at me"
+ 
+    Slings
+rush RCD to wall off areas and open holes to space to make people fuck off
+can you jaunt at will now? if so, make safe area inside walls for recovery?
+--- can jaunt while stunned? if so, dont need hulk as much?
+hatched slings can be hulk / shit, but can't be injected once they're hatched, so use powers before evolving
+--- tk rarely used if you have hulk, hulk is useful for escapes / punching people
+--- YOU NEED XRAY NOW, SLINGS ONLY HAVE THERMAL
+------ hulk + xray = powergamer brute force conversions + easy apc punching
+--------- but has a new free-use jaunt spell, so dont need as much?
+------ tk + xray + shock touch = if super safe with lots of walls everywhere
+------ Hulk + shock touch = 9v1 if everyone is validhunting and team is retarded
+ 
+    being nukops
+adrenals don't work for disablers, so if stunbatons are removed they're not an instant pick anymore?
+COMBAT GLOVES FOR 5TC = KRAV = not stunlock, but a stun. FREE FOR LEADERS, SO BEG FOR THEM?
+--- can also silence target, but requires huge apm + no autoclick
+SHUTTLE GUNS ARE NOW XRAY AND SUPER OP, PARK NEAR STATION. assault pod guns arent op though, dont use
+cqc is super fucking cool, grab grab disarm = instant knockout after fully restrained
+--- take over xeno, feed people to the pen
+--- shit in real combat tho
+sniper rifle + penetrator rounds + thermals = kill people through walls, 60 damage with no armor
+--- WITH armor it's useless though, so don't waste your money. sec will take 5 hits and laugh it off
+clown costume pda slips like normal?
+@@@ starting is 35, no more terminal horseshit
+Ratthing assassin 20-25: adrenal(8), gloves(5 or 0), emag(6), thermals(4), radio jammer(5) / desword(16)
+--- if buying gloves, radio = they can't respond. if free, can buy a desword to win gunfights in maint
+? cqc 35: adrenal(8), cqc(?)
+--- no point anymore, can't kidnap
+? ARM thief 35: adrenal(8), healing gun(15), esword(7), gloves(5-0)
+--- only for lowpop, as you'll be basically revealing yourself every time + huge wait to heal them
+? Fungal 35 (only if no ai to lock you in): biochem launcher? (15), adrenal(8), elite suit(8)
+Sneaky 34: esword(8), emag(6), adrenal(8), thermals(4), stealth(8), gloves(free), if 1 tc emp(2)
+?-- rush janitor for a disguise if needed, but stealth should work,
+@@@ If war: was 125 last time, but some fucker didnt put in radio so we stole his points = probably less
+@@@@@@ was 86 with 5 split even
+MLG sniper: double or single esword, crypto, adren, thermal / xray, sniper, rest go into pen rounds
+--- kill ai easy, get into a position to snipe the bridge from its maint asap or they'll spam call it
+--- normal sniper shots can remove limbs in one hit, maybe get a few if they don't spam windows everywhere
+?Spider demon: emag, esword, rest on arms, cut off legs
+--- legless crawl speed is based on # of arms, so extra arms = meth levels of speed while resting?
+ 
+    vs Nukops
+NUKOP GUNS ARE NOW WALL PIERCING AND RAPID FIRE, NO CHANCE OF REACHING SHUTTLE
+ 
+    sentient disease
+name self Space Retrovirus or Appendicitis or "advance disease" to look like a normal miasma virus?
+--- or Unknown to look like a bad viro virus
+pick voluntary sneeze first, then whatever adds stealth. NOT COUGHING, THAT MAKES IT PUBLIC
+only stats that matter are stealth + resist, or do they?
+--- sneeze -2  3   0  4
+--- cough  -1  3   1  2
+--- choke  -3 -2  -2 -4
+--- confus  1 -1  -3  0
+--- youth   3  4   4 -4
+--- vomit  -2 -1   0 -1
+--- voice  -1 -2  -2  2
+--- hyph   -1 -4  -4 -3
+--- adapt   3  5  -3  0
+--- vitil   2  0   3  1
+--- itch    0  3   3  1
+if nobody notices / reacts to the virus, full stealth into 16 resist into hyph
+if people react badly trying to cure, go with good things
+if they still cure you, save resistance procs till its upgraded enough to hyph
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++ CHEM ++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+ 
+soap ez to make with gibs, add below, BUT USELESS NOW RIP
+70u mutagen is enough to kill the liver
+ 
+TEST VS SEC: how much u injected for spraybottle / plant b gone at 5/10u???
+--- WORKS FULLY VS SEC, EVEN ENGI HARDSUIT
+--- mutagen doesnt mutate, but seems to double the amount of mutagen they recieve??? 10u spray = 20u
+--- does this mean botany hypo needles inject always full too?
+--- synthflesh splash on through bio hood / suit
+--- one spray of 10u crank = instant addiction
+ 
+ 
+ 
+ 
+ 
+toxins below 3u are cleared by 1u every tick
+reset all things that say "lethal" below to check for such
+same for lethal smoke, as mini reagents are removed quick
+ 
+EMPTY EXTINGUISHER + C3F FILLED = KICKASS FLAMETHROWER, CAN BREACH TO SPACE
+--- any other chems work? what applies via bottle = works
+--- Synthflesh heals a bit, more if in a corner
+--- Syptic powder / silver sulf = 30x screams if they're tucked in a corner and damaged
+ 
+ 
+Good:
+ 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Synthflesh  -   Blood                                            +
+ * Heals brute and  Carbon                                           +
+   burn instantly   + Styptic Powder                                     +
+ * 1u = 1.25,       +---    -   -   Aluminum                             +
+   50u = 62.5                   Hydrogen                             +
+ * Smoke = healing              Oxygen                               +
+   but 1u = 1.1 heal                Sulfuric Acid                            +
+ * Can be splashed on                                                +
+   = fullheal at 80u                                                 +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Styptic Powder      Aluminum                                         +
+ # 0.4          Hydrogen                                         +
+ * 1/u bruteheal    Oxygen                                           +
+   on patch use     Sulfuric Acid                                        +
+ * 2 brute/tick                                                  +
+ * O: 45u = 2.5 brute                                                +
+   and 0.5 tox / tick                                                +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Silver Sulf     + Ammonia                                        +
+ # 0.4          +---    -   3 Hydrogen                               +
+ * 1/u burnheal             1 Nitrogen                               +
+   on patch use     Silver                                           +
+ * 2 burn/tick      Sulfur                                           +
+ * O: 45u = 2.5 burn    Oxygen                                           +
+   and 0.5 tox / tick   Chlorine                                         +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Tricordizine    -   + Bicaridine (brute) (15)                                +
+ # 0.4          +---    -   Carbon                                   +
+ * Heals all over           Oxygen                                   +
+   time, 80% proc           Sugar                                    +
+ * 1/tick = ~2/u    + Ketolane (burn) (20)                                   +
+ O:30 = 3 dmg / tick    +---    -   Carbon                                   +
+   = lethal dot             Silicon                                  +
+ * Seperate reagents    + Antitoxin (toxin) (5)                                  +
+   = 2/tick = 5/u   +---    -   Nitrogen                                 +
+ * Fullheal = 15/15/15          Potassium                                +
+   of tri / bic / keto          Silicon                                  +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Charcoal    -   : Temp 380 (1000)                                    +
+ # 0.2          + Sodium Chloride                                    +
+ * +2 toxheal/tick  +---    -   -   Sodium                               +
+ * -1u other                    Chlorine                             +
+   chems/tick                   Water                                +
+ * 1u=4u, 5u=20u    + Ash                                            +
+            +---    : Temp 480                                   +
+                + Oil                                        +
+                +---    -   Welding Fuel                             +
+                        Carbon                               +
+                        Hydrogen                             +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Iron            Iron                                             +
+ # 0.4                                                       +
+ * 0.5u blood/tick                                               +
+   = 1.25 blood/u                                                +
+   = 1% blood / 5u                                               +
+ * Default is                                                    +
+   0.3u/tick = 0.8u                                              +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Potassium Iodide    Potassium                                        +
+ # 0.8          Iodine                                           +
+ * -8 rads/tick                                                  +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Pentetic Acid       Welding Fuel                                         +
+ # 0.2          Sodium                                           +
+ * +2 tox/tick      Chlorine                                         +
+ * -2 other chems   + Ammonia                                        +
+ ? -2% rads/tick?   +---    -   3 Hydrogen                               +
+                    1 Nitrogen                               +
+            + Formaldehyde                                       +
+            +---    -   -   : Temp 420 (1000)                        +
+                        Ethanol                              +
+                        Oxygen                               +
+                        Silver                               +
+            + Cyanide                                        +
+            +---    -   : Temp 380 (1000)                            +
+                    Oxygen                                   +
+                    + Ammonia                                +
+                    +---    -   3 Hydrogen                       +
+                            1 Nitrogen                       +
+                    + Oil                                    +
+                    +---    Carbon                               +
+                        Hydrogen                             +
+                        Welding Fuel                             +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Cryoxadone  -   Stable Plasma                                        +
+ * Used in cryo     + Acetone                                        +
+ * Heals everything +---    -   -   Welding Fuel                             +
+   if cold                  Oxygen                               +
+ * Works in cold shower             + Oil                                +
+                        +---    -   Welding Fuel                     +
+                                Carbon                       +
+                                Hydrogen                     +
+            + Unstable Mutagen                                   +
+            +---    -   -   Chlorine                             +
+                        Phosphorus                           +
+                        Radium                               +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Mannitol    -   Hydrogen                                         +
+ # 0.4          Sugar                                            +
+ * Heals brainloss  Water                                            +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Neurine         Oxygen                                           +
+ # 0.4          + Acetone                                        +
+ * 15% chance to    +---    -   Welding Fuel                                 +
+   cure minor brain         Oxygen                                   +
+   traits               + Oil                                    +
+                    +---    -   Welding Fuel                         +
+                            Carbon                           +
+                            Hydrogen                         +
+            + Mannitol                                       +
+            +---    -   Hydrogen                                 +
+                    Sugar                                    +
+                    Water                                    +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Leporazine  -   : 5u Plasma (Catalyst)                                   +
+ # 0.4          Copper                                           +
+ * Keeps temp stable    Silicon                                          +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Oculine -   -   Carbon                                           +
+ # 0.1          Hydrogen                                         +
+ * Heals eye damage + Charcoal                                       +
+ * Only need 5u     +---    -   Antitoxin bottles                            +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Mutadone    -   Bromine                                          +
+ * Removes ALL      + Acetone                                        +
+   genetic mutations    +---    -   Welding Fuel                                 +
+ * Can be sprayed on            Oxygen                                   +
+                    + Oil                                    +
+                    +---    -   Welding Fuel                         +
+                            Carbon                           +
+                            Hydrogen                         +
+            + Unstable Mutagen                                   +
+            +---    -   -   Chlorine                             +
+                        Phosphorus                           +
+                        Radium                               +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Ammonia -   -   3 Hydrogen                                       +
+ # 0.16         1 Nitrogen                                       +
+ ! Heals plants only                                                 +
+ * Brute + burn / tick                                               +
+ * No OD, get 999u                                               +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Saltpeter   -   1 Potassium                                      +
+ # 0.16         1 Nitrogen                                       +
+ ! Heals plants only    3 Oxygen                                         +
+ * 2Burn + tox / tick                                                +
+ * No OD, get 999u                                               +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Oil -   -   Welding Fuel                                         +
+ # 0.16         Carbon                                           +
+ ! Heals robots only    Hydrogen                                         +
+ * 1 burn per tick                                               +
+ * No OD, get 999u                                               +
+ * Same with Weldingfuel                                             +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anti-Stun
+synaptizine 20, ephedrine 20, nicotine 20, crank 20, meth 40
+0 resist = 16 seconds, 20 resist = 7-8 sec, 40 = 5-6 sec, 60 = 2-4 sec, all = 1-2 sec; can still stunlock...
+ 
+**************************************************************************************************************
+Meth    -   -   : Temp 374 (379)                                     *
+ # 0.3          Iodine                                           *
+ * Resist stuns +40 Phosphorus                                       *
+ * Fast +2      Hydrogen                                         *
+ A:10u = Dizzy      + Ephedrine                                      *
+ ! EXACTLY 379 or   +---    -   Hydrogen                                 *
+   everything blows         Sugar                                    *
+                    + Diethylamine                               *
+                    +---    -   -   Ethanol                      *
+                                + Ammonia                    *
+                                +---    -   3 Hydrogen           *
+                                        1 Nitrogen           *
+                    + Oil                                    *
+                    +---    -   -   -   Carbon                   *
+                                    Hydrogen                 *
+                                    Welding Fuel                 *
+**************************************************************************************************************
+Crank   -   -   : Temp 390 (1000)                                    *
+ # 0.25         Lithium                                          *
+ * Resist stuns +20 Sulfuric Acid                                        *
+ A:10u = 200 brute/tox  Welding Fuel                                         *
+            + Ammonia                                        *
+            +---    -   -   -   3 Hydrogen                       *
+                            1 Nitrogen                       *
+            + Diphenhydramine                                    *
+            +---    -   -   + Oil                                *
+                        +---    -   Welding Fuel                     *
+                                Carbon                       *
+                                Hydrogen                     *
+                        + Diethylamine                           *
+                        +---    -   Ethanol                      *
+                                + Ammonia                    *
+                                +---    -   3 Hydrogen           *
+                                        1 Nitrogen           *
+                        Carbon                               *
+                        Bromine                              *
+                        Ethanol                              *
+**************************************************************************************************************
+Synaptizine -   Sugar                                            *
+ # 0.4          Lithium                                          *
+ * Resist stuns +20 Water                                            *
+ * Minor tox damage                                              *
+**************************************************************************************************************
+Niccotine       Grind cigarrets                                      *
+ # 0.?                                                       *
+ * Resist stuns +20                                              *
+**************************************************************************************************************
+Teslium -   -   : Temp 400 (470)                                     *
+ # 0.2? or 0.0      Silver                                           *
+ * Shocks randomly  Stable Plasma                                        *
+   for 5-20 dmg     + Black Powder                                       *
+ ! +3 drugs if robot    +---    -   Sulfer                                   *
+ * 1u lasts 40 ticks            + Saltpeter                              *
+ * Minor heal if <50hp          +---    -   1 Potassium                      *
+                            1 Nitrogen                       *
+ !!! Doesn't work for                   3 Oxygen                         *
+   robots, prob glitch          + Charcoal                               *
+                    +---    -   From antitoxin bottles                   *
+**************************************************************************************************************
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LIVERLESS LICHDOM
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! No longer works, patched, gg
+Lose your liver with toxins / 70u mutagen
+keep yourself alive with corazone support,
+reagents never tick down / activate,
+keep traits associated with reagents like speed / stun immunity!
+You are now bound to your Corazone blood, make sure you don't run out
+remove tox damage beforehand, or it'll be permanent
+ 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Mindbreaker Toxin   Charcoal (From Nanomeds)                                 ^
+ # 0.4          Hydrogen                                         ^
+ * +5 hallucinations    Sillicon                                         ^
+ * Doesn't cause tox                                                 ^
+   damage but kills                                              ^
+   liver, safest way                                                 ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Corazone    -   Lithium                                          ^
+ # 0.4          + Phenol                                         ^
+ * If liver is gone,    +---    -   Water                                    ^
+   take no damage and           Chlorine                                 ^
+   other reagents never         + Oil                                    ^
+   tick down                +---    -   Carbon                           ^
+ ! That means any tox                   Hydrogen                         ^
+   damage lasts forever                 Welding Fuel                         ^
+   and can't be cured                                                ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Bath Salts  -   : Temp 374 (1000)                                    ^
+ # 0.2          + Saltpeter                                      ^
+ * Stun / sleep immune  +---    -   3 Oxygen                                 ^
+ * Bath Salt Arts           1 Potassium                              ^
+ * 4 brainloss/tick =           1 Nitrogen                               ^
+   major traits at 5u   + Space Cleaner                                      ^
+ * Random move / tick   +---    -   Water                                    ^
+ O:20u = move/dropping          + Ammonia                                ^
+ A:10u = lethal brainloss       +---    -   3 Hydrogen                       ^
+                            1 Nitrogen                       ^
+ ^ Liverless = only Mercury                                          ^
+   stun/sleep immune    Tea (Duke Purple Tea from tea vendors)                           ^
+   + bath salt arts Bad Food (Microwave food that isn't normally cookable, plants / vendor shit)         ^              Nutriment (Grind 5 4no Rasins or 2 arrivals-botany watermelons)              ^
+            Enzyme (Universal enzyme bottle from chef)                       ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Grey Bull   -   From drink vendor for 30$                                    ^
+ ^ Shock immune for                                                  ^
+   easy hacking                                                  ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Nuka Cola   -   From drink vendor for 30$                                    ^
+ ^ Fast +1                                                   ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Morphine    -   From Nanomeds                                        ^
+ ^ Ignore slowdowns,                                                 ^
+   including from crit                                               ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Meth    -   -   See Above                                        ^
+ ^ Fast +2                                                   ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Ephedrine   -   See Above                                        ^
+ ^ Fast +1                                                   ^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bad:
+ 
+ 
+--------------------------------------------------------------------------------------------------------------
+Bone Hurt Juice -   ! 1 Milk
+ # 0.4          + 1 Unstable Mutagen
+ * Staminalock at 6.4u  +---    -   -   Phosphorus
+ * 16 tick delay, but               Radium
+   slowed down before               Mutagen
+ ! Requires milk from   + 3 Itching Powder
+   chef or botany, NOT  +---    -   -   Charcoal
+   AVAILABLE AT BAR             Welding Fuel
+                        + Ammonia
+                        +---    -   3 Hydrogen
+                                1 Nitrogen
+--------------------------------------------------------------------------------------------------------------
+Chloral Hydrate -   3 Chlorine
+ # 0.6          1 Ethanol
+ * 10-sleep-30-40-crit  1 Water
+ * 11 tick delay
+--------------------------------------------------------------------------------------------------------------
+Sulfonal -  -   Sulfur
+ # 0.05         + Acetone
+ * Sleep at 1.1u    +---    -   Welding Fuel
+ * 22 tick delay            Oxygen
+ * Crit at 10.1u            + Oil
+   or 12 for plants         +---    -   Welding Fuel
+ * 0.5 tox / tick =                 Carbon
+   10 tox / u                       Hydrogen
+            + Diethylamine
+            +---    -   -   3 Ethanol
+                        + 1 Ammonia
+                        +---    -   3 Hydrogen
+                                1 Nitrogen
+--------------------------------------------------------------------------------------------------------------
+Morphine    -   Any Nanomed
+ # 0.25
+ * Sleep after 3.5u
+ * 24 tick delay
+ * Isn't a toxin, so
+   liver ignores it
+ * Removes all slows
+   from damage / suits
+ ! Warned b4 sleep
+ A:25 = Drop / tox
+--------------------------------------------------------------------------------------------------------------
+Fentanyl    -   : Temp 674 (1000)
+ # 0.2          + Space Drugs
+ * 3.8u = Quiet sleep   +---    -   Lithium
+ * 18 tick delay            Mercury
+ * 15u = 150 brainloss          Sugar
+   = unfixable quirks
+ * 1 tox/tick, max 60
+--------------------------------------------------------------------------------------------------------------
+Lexorine    -   Plasma
+ # 0.4          Hydrogen
+ * Stops breathing  Oxygen
+ * 5u = knockout from
+   oxyloss in 11 ticks
+ * 6/15u = crit/lethal
+--------------------------------------------------------------------------------------------------------------
+Nitrous Oxide   -   : Temp 525 (574)
+ # 0.6          1 Nitrogen
+ * Drowsy = rng sleep   2 Oxygen
+ * Removes 15% blood    + 2 Ammonia
+   per 5u       +---    -   3 Hydrogen
+ * 15u = lethal from            1 Nitrogen
+   invis bloodloss,
+   usually asleep
+ * Temp = almost-meth-
+   level-explosion
+--------------------------------------------------------------------------------------------------------------
+Heparin -   -   Sodium
+ # 0.08         Chlorine
+ * 8u Blood/tick    Lithium
+ * 1 Brute/tick     + Formaldehyde
+ * 5u is fatal from +---    -   : Temp 420 (1000)
+   bleedout afterward           Ethanol
+                    Oxygen
+                    Silver
+--------------------------------------------------------------------------------------------------------------
+Cyanide -   -   : Temp 380 (1000)
+ # 0.05         Oxygen
+ * 1u = 25 tox      + Oil
+ * Random stuns     +-- -   Carbon
+ * 10u = crit               Hydrogen
+ ! Messaged on stun         Welding Fuel
+            + Ammonia
+            +---    -   3 Hydrogen
+                    1 Nitrogen
+--------------------------------------------------------------------------------------------------------------
+Neurotoxin  -   Morphine                                         -
+ # 0.4          + Pan-Galactic Gargle Blaster                                -
+ * Not a toxin for <3u  +---    -   -   -   Vodka (Tunguska triple distilled)            -
+ * 1 brainloss/tick                 Gin (Griffeater gin)                     -
+ * 2 dizzy/tick                     Whiskey (Uncle Git's special reserve)            -
+ * 20% disarm/tick                  Cognac (Chateau de Baton premium cognac)         -
+ * >2u = 20% limb                   Lime Juice                       -
+   disabled/tick                                                 -
+ * >12u = +2 brainloss                                               -
+ * >20u = 15% heartattack                                            -
+   = guranteed lethal                                                -
+--------------------------------------------------------------------------------------------------------------
+Ephedrine   -   Hydrogen                                         -
+ # 0.2          Sugar                                            -
+ * Resist stuns +20 + Diethylamine                                       -
+ * Fast +0.85       +---    -   -   3 Ethanol                            -
+ * 20% disarm/tick              + 1 Ammonia                          -
+ O:30u = minor tox +                +---    -   3 Hydrogen                   -
+   2% chance of heart                       1 Nitrogen                   -
+   attack disease       + Oil                                        -
+ A:25u = major tox +        +---    -   Welding Fuel                             -
+   chance of 10 sec KO              Carbon                               -
+                        Hydrogen                             -
+--------------------------------------------------------------------------------------------------------------
+Lipolicide  -   Mercury
+ # 0.2          + Diethylamine
+ * Tox damage       +---    -   -   Ethanol
+ * Reduces weight               + Ammonia
+ ! Useful for robot             +---    -   3 Hydrogen
+   teslum spam                          1 Nitrogen
+            + Ephedrine
+            +---    Hydrogen
+                Sugar
+                + Diethylamine
+                +---    -   -   3 Ethanol
+                            + 1 Ammonia
+                            +---    -   3 Hydrogen
+                                    1 Nitrogen
+                + Oil
+                +---    -   Welding Fuel
+                        Carbon
+                        Hydrogen
+--------------------------------------------------------------------------------------------------------------
+Napalm  -   -   Ethanol
+ # 0.4          Welding Fuel
+ * Adds fire stacks + Oil
+            +---    -   Welding Fuel
+                    Carbon
+                    Hydrogen
+--------------------------------------------------------------------------------------------------------------
+Chlorine Trifluoride    : Temp 424 (1000)
+ # 3.2          1 Chlorine
+ * u=% chance to melt   3 Fluorine
+   a wall on splash
+ * Can be splashed on
+ * Rwalls melt at 100u
+ ! Visible fireball
+   when created
+ ! Put in extinguisher
+   for ez flamethrower
+--------------------------------------------------------------------------------------------------------------
+Phlogiston  -   ! Stabilizing Agent
+ # 0.4          +---    -   -   Iron
+ * Ignites on apply             Oxygen
+ * If used in grenade,              Hydrogen
+   mini-plasma fire Phosphorus
+ * Minor fire stacks    Sulfuric Acid
+   + burn damage    Stable Plasma
+--------------------------------------------------------------------------------------------------------------
+Fluorosulfuric Acid : Temp 380 (1000)
+ # 0.4          Fluorine
+ * Melts equipment  Hydrogen
+ * Can be splashed on   Potassium
+   to melt clothes  Sulfuric Acid
+ * 2 tox/tick
+ * Burn damage = to
+   1/10 current cycle
+--------------------------------------------------------------------------------------------------------------
+Cryptobiolin    -   Potassium
+ # 0.6          Oxygen
+ * Confusion        Sugar
+ * Sets to 20, use 1u
+--------------------------------------------------------------------------------------------------------------
+Mute Toxin  -   2 Uranium
+ # 0.4          1 Water
+ * Stops talking    1 Carbon
+--------------------------------------------------------------------------------------------------------------
+Pax         Water
+ # 0.1          + Synaptizine
+ * Forces pacifist  +---    -   -   Lithium
+ * Isn't a toxin, so                Sugar
+   liver ignores it             Water
+            + Mindbreaker Toxin
+            +---            Charcoal (From vendors)
+                        Hydrogen
+                        Sillicon
+--------------------------------------------------------------------------------------------------------------
+Sugar   -   -   Sugar
+ # 0.8
+ * 200u = eternal sleep
+ * Only 40u for plants
+--------------------------------------------------------------------------------------------------------------
+Zombie Powder   -   Morphine (From Nanomeds or emagged chem dispenser)
+ # 0.32         Carpotoxin (From emagged chem dispenser)
+ * Fake death       Copper
+ * Instant stun
+ ! Requires emag
+ ! Uses lots of power
+--------------------------------------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Grenades / Activators:
+ 
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Smoke   -   -   Sugar
+ * Applies reagents Potassium
+   over each tick   Phosphorous
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sorium  -   -   Mercury
+ * Knockbacks all   Oxygen
+   in large range   Nitrogen
+            Carbon
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Foam    -   -   2 Carbon
+ * Mix with water to    2 Fluorine
+   spread foam out  1 Sulfuric Acid
+ * Applies reagents
+   based on bio prot
+ * Must have over
+   60u reagents?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meth Explosion  -   : Temp 300 (DEFAULT TEMP)
+ * Same power as    Iodine
+   blackpowder      Phosphorus
+ * About the same as    Hydrogen
+   300u waterpotas  + Diethylamine
+            +---    -   -   3 Ethanol
+                        + 1 Ammonia
+                        +---    -   3 Hydrogen
+                                1 Nitrogen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+EMP -   -   Iron
+ * Overloads computers  ! Uranium
+ ! Don't hold flashes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Voice-activated Smoke Grenade
+Voice-recorder + igniter, hide in starterbox
+Wear a bio hood / face-covering mask / internals to be immune to reagents
+11 ticks long, 1/10 reagents each tick
+ 
+    5u
+Heparin: Guranteed bleedout days later
+Crypto: Unable to chase you, but hard to kill
+ 
+    5-200u
+Smoke: Same duration, but farther radius at higher u. 15u=3 tiles away, 30u=4, 45u=5, 75u=6, 90u=7, 105u=8
+Lube: Slip field for the duration, 10 minimum but lasts longer for each 10u. If noslip boots, add 10u
+Chloral: Asleep just as the smoke ends, dead over 40u
+Neurotoxin: Asleep a bit after the smoke ends, non-lethal at 80 tox damage and causes brainloss
+Sufonal: Asleep long after the smoke clears, or just after 15u chloral
+Mutagen: Random mutations at 5u, lethal tox damage at 200u
+Tricordizine: 35u is lethal by OD, slight heal before it fully applies
+ 
+    200u
+Sugar: 180u + a single patch will knockout anyone in arms reach. Bluespacebeakers = always knockout
+ 
+    Generally:
+Kidnap: 30u Smoke, Sugar patches. When they're down, use a sugar patch on them
+Kidnap+: 30u Smoke, 15u Perf, Neurotoxin. Reduced to 20 hp and massive brainloss
+Kidnap++: 15u Smoke, 20 Perf, Beepsky Smash. They can't move or talk, but look perfectly fine
+Permasleep: 30u Smoke, 15u Chloral, Sufonal / Neurotoxin
+Suffocate Kill (looks like suicide to crew monitor?): 30u Smoke, 5u Salve, 15u Lexorine
+Quick Kill: 30u Smoke, 5u Salve, 15u Lexorine, Tricord
+Long Kill: 30u Smoke, 5u Salve, Chloral / Mutagen
+Guranteed Kill: 30u Smoke, 5u Salve, 10u Heparin, 40u Tricord, Chloral
+Suffer Kill: 30u Smoke, 5u Salve, 50u Crypto, 10u Heparin
+ 
+If autocloning, get Diethylamine, Iodine, Phosphorus, Hydrogen = suicide bomber
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Foam Health Sensor
+Helth sensor + igniter, activates when you're crit
+?!!! Don't wear a bio hood or other super-bio-prot gear, or it wont work?
+!!! BE SURE TO ACTIVATE IT WHEN YOU PUT IT IN YOUR PACK OR YOU'RE SOL
+ 
+    Healing: Keep a spare, when you've used all your voice ones these remain
+15 foam, 25 tricord, 20 ketolane, 20 bicardine, lube = Everyone stunned and fullhealed
+15 foam, 25 tricord, 20 ketolane, 20 bicardine, 5 teslum, lube = Same, but +drugs for robots
+ 
+    Revenge: If you have activatable healing ready (ling), wear a biohood and have an emergency deterrant
+Any non-c3f / acid death grenade above = Add more smoke than usual = hard to be found and reaches shooters
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Landmines
+Motion sensor + igniter, or mousetraps + igniter for 0 range / hidden bombs in backpacks
+Smokes don't spread into other smoke, but will always spawn a single smoke wherever grenade activates
+Meaning if you want double smoke on a single tile, like 400u sugar, set the radius to 0 or use mousetraps
+ 
+Diethylamine, Iodine, Phosphorus, Hydrogen: 200u gibs, 100u kills. 100u kills sec? 200u gibs sec?
+Smoke + Salve +
+    Anything from above
+    C3F: Burns to death at 5u, chance of holes at 100u
+    Fluro acid: Melts shit and kills. Has to be 200u, or no effect. Biosuit = minor protection, can run
+Smoke + Salve + Sugar x2: Arm to 0 distance, will sugar knockout if they step on the exact square
+Foam + C3F: Melts anyone near it, melts all the ground touched, area becomes uninhabitable
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pneumatic Cannon
+Get pipes under tiles in the crayon room, no need for a RPD
+order out is the same as in, so c3f wall melter before others always?
+ 
+? C3F: Melts walls, kills at 100u. Even if they get an extinguisher quick?
+? Fluroacid: Melts equiptment, deals damage? how much damage per u?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Spray Bottle
+?Does this apply 5u toxin reagents = can be lethal?
+? applies more reagents if naked?
+? how much reagents applied on full sec gear?
+? gas mask makes you immune?
+ 
+Lube
+Heparine
+?C3F: does a single spray kill a stunned guy?
+?Lexorine
+Sufonal - Takes a long time, only good for trackable targets
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Else:
+ 
+==============================================================================================================
+Plastic         + Oil
+ * Makes ~5 sheets  +---    Carbon
+ * Extra beakers        Hydrogen
+ * Plastic flaps        Welding Fuel
+ 
+    Make 90u, 30u to beaker + heat 1k to Ash, add 20u sulf acid to remaining, mix together
+==============================================================================================================
+Unstable Mutagen    Chlorine                                         =
+ * Needed by many jobs  Phosphorus                                       =
+ * Gives bad mutations  Radium                                           =
+   if >=1u ingested                                              =
+==============================================================================================================
+Space Lube  -   Oxygen                                           =
+ * Slips everything Silicon                                          =
+ ! Admins are warned    Water                                            =
+==============================================================================================================
+Space Cleaner   -   Water                                            =
+ * Cleans stuff     + Ammonia                                        =
+            +-- -   -   3 Hydrogen                               =
+                    1 Nitrogen                               =
+==============================================================================================================
+Carpet  -   -   Blood                                            =
+ * Sprays carpet    + Space Drugs                                        =
+            +---    -   Lithium                                  =
+                    Mercury                                  =
+                    Sugar                                    =
+==============================================================================================================
+Thermite    -   Aluminium                                        =
+ * Can melt walls   Iron                                             =
+ * Dump and burn it Oxygen                                           =
+==============================================================================================================
+ 
+Chem Potions
++++ Speed / haste / zoom = meth + ephedrine + nuka cola
++++ Stupidity = mercury + imprendezine
+--- Nowhere fast = meth + crank + crypto
+--- Spacewalk = lepo + perf + bicard or perf + cryo
++++ Fire = c3f
++++ Wall removal = thermite
++++ confusion = crypto
++++ cleansing = charcoal
++++ antithirst = water
++++ silence = perf
++++ breathtaking = lexorine
++++ insanity = mindbreaker
++++ bravery / drunkeness = ethonal
++++ Dizziness = cryptobiolin
++++ Sleep / lethargy = neurotoxin / morphine / chloral
+--- Lightning / inspiration = Teslum / energy bars
++++ Immolation / demonform = phlog + leporazine + ketolane
+--- Hunger = lipolicide
++++ Healing / regeneration / life = tricord chems
+--- madness = spacedrugs + mindbreaker?
+--- carpet bomb = carpet
+--- vomiting = rotatium + skewium
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++ BOTANY ++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+ 
+saltpeter *100u = about 30 potency increase?
+can start up a replica pod in the hallway, suicide bomb, then someone eventually picks it to revive you
+killer tomatos dont attack pod people = spammable?
+feeding lots of ammonia = +yield? saltpeter=-prod&+potency? diethylamine=+yield? how much per u
+kudzu plant + maxed out blood tomatoes / holymelon stats grinded and beaker-fed = hyper-fast-kudzu nuke?
+--- tg wiki: 10u holy water = -5-15 potency, 15u blood = -5-15 production. explains above
+--- potency = mutations per spread, production = amount spread each tick?
+combustable lemons can remove limbs even at low potency, potency only effects range of the flames, useful?
+--- 10 potency can delimb right next to a guy, higher can breach to space? or even low can?
+bacchus blessing = best possible liver killer drink?
+sugarcane now available at vendors? 0.25 sugar, nothing else special, what can do with it?
+strange reagent = revive if brute / burn are above 100? holy water + omnizine + mutagen
+--- holy melons + ambrosia deus + mutagenmelons / mutagenshrooms?
+ZOMBIE POWDER = morphine + carpotoxin + copper = reishi + soybeans->koibeans + DAMNIT, grind copper,,,,,,
+blood tomato spam + lock yourself in = miasma farm, use air scrubber + gas pipes
+ 
+ 
+ 
+toxins below 3u are cleared by 1u every tick
+ 
+    antag gimmicks / strats:
+Quick killer (double agent panic) = solo maxed death nettles for kill on throw, but with a delay
+Lights out = acid grenades for apcs, shadowshrooms, MAKE SURE NOBODY PLANTS GLOWSHROOM THO
+Suprise gifts = water + potas + PERRENIAL on pick, drag to hallways, prepare to fight
+Blood for blood god: Tomato->Bloodtomato spam, throw into things to start it in their square or squash in hand
+ 
+    meme gimmicks:
+walking shroom spam: plump->walking = hallway spam and murderfest for everyone's amusement
+--- Admins don't like, can't spam too much
+Thicc boi = growth + hypo = make someone huge. Squash + slip + hypo + growth = even unwilling?
+fart collecter: blood tomato spam, wall yourself off and pipe the gas with a scrubber to cannisters
+make 100000 tiny plants, put in one tile, challenge people to guess how many data disks in the pile = crash
+ 
+ 
+ 
+Plant guide
+--- Rush toolshed for multitool, or beg from cargo / robo
+--- Buy glowshroom ambros pumpkin redbeet nettle : tobacco wheat melon
+--- start glowshroom, mutagen it up to 100 in advance for when you add mutagen to it
+--- use the rest of the mutagen on gaia pumpkin and redbeet
+--- then make mutagen melons with double reagents, then plant and upgrade the rest whenever
+--- Decon seeds in DNA machine: Tobacco = Yield 10, Wheat = Production 1, Melon = regrow
+--- check strange seeds for special traits or chems when you get passive income $
+ 
++++ Ambrosia =  10u Ketolane + Bicardine
++/- Ambrosia->Deus = 15u Omnizine = Healing or overdose
+*/+ Ambrosia->Deus->Gaia = 5u Earthsblood (+3 regen/tick, 7.5/u, 15u/bite, tox OD at 25u), auto-farming
+*** Berry->Glowberry = Uranium for virology if grinded
+*** Pumpkin->Blumpkin = 10u Chlorine = mutagen. Works for smoke if smoke chems THEN mutagen chems
+*** Glowshroom = 10u Radium + Phosphorus for mutagen growing
+*** Glowshroom->Glowcap = Cellcharge gene, 10u Teslium for robots (rip)
+--- Glowshroom->Shadowshroom = Perma darkness if spread
+*/- Nettle->Deathnettle = Hypo Needle trait, 50u Facid + Sacid
+?????? injects a small amount of reagents per melee? 16u omnizine = 1.1u omnizine in target
+*** Whitebeet->Redbeet = Double max reagent volume, but not normal volume,,,
+*** Cannabis->Omegaweed = 15u Bath salts + all other drugs. 420 max volume for extreme grenades
+*** Tomato = Liquid contents gene for throwing acid or smoke grenades
+~~~ Tomato->Bloodmato = 20u Blood for carpet bombs
+~~~ Cannabis = 15u Spacedrugs for carpet bombs
+~~~ Plump->Walking = Self killing fun
+~~~ Fly Amanita = 10u growth serum = max size at 200u
+--- Fly Amantia->Destroying Angel = 20u Amanitin = Tox on expire, 3/0.2+3u = 15/1u = 10u crit or 17u lethal
+--- Watermelon = 20u Water, with banana 10u potassium = explosions
+--- Banana->Mimana = 10u Mute toxin, liver damage after multi throws for stealthy kills
+--- Berry->Poisonberry = 20u Tirizene = minor stam slowdown, only useful for liver damage support
+--- Berry->Poisonberry->Deathberry = 8u Coniine = super lexorine. 5u = enough to crit
+--- Chili->Ice Chili = 25u frost oil, slips tiles it hits and freezes to death
+--- Corn = 20u corn oil = Larger explosion when mixed with facid and sacid. CORN OIL FIRST OR DOESNT WORK
+ 
+ 
+Eating
+??? 9u per bite for everything at 100 potency? nope, ate 11u amatin from destroying, its different?
++/- Cannabis->Omega = Bath salts, 9u per bite for 10u addiction, but even once is enough to brain damge fully
++++ Ambrosia =  10u Ketolane + Bicardine
++++ Ambrosia->Deus = 15u Omnizine
++++ Ambrosia->Deus->Gaia = 5u Earthsblood (+3 regen/tick, 7.5/u, 15u/bite, tox OD at 25u, slight brain damage)
+~~~ Fly Amanita = 10u growth serum, put in feeding food for big boys
+--- Berry->Poisonberry->Deathberry = 8u Coniine = dead on first bite
+ 
+Nettle Throwables
+    Nettle->Deathnettle = Hypo needles, throw to inject up to 20u at target. All reagnets
+    Doesn't go through hardsuits, but does through shields
+    With tomato's liquid contents, leaves no plant trash behind = can't throw back at you
+~~~ Fly Amatia = 10u growth serum, makes people grow. Mix with below for willing targets
+--- Banana->Mimana = 10u Mute toxin, throw with growth serum for stealth liver takedowns or below for quietness
+--- Fly Amatia->Destroying Angel = 20u Amanitin = invisible kill days later
+--- Mutagen = Mutate on hit, 3+ max-pot glowshroom throws = very eventual liver failure
+--- Berry->Poisonberry->Deathberry = 8u Coniine = Suffocate kill, NOT easily healed
+--- Nettle->Deathnettle = Only injects facid, but does high on-hit damage and kills in 1 shot
+--- Ambrosia->Deuz = 16u Omnizine = overdose in 2 throws = lethal but loud
+--- Redbeet = 20u sugar = in a coma after dozens of hits. Requires a very willing target (growth serum)
+ 
+Tomato Throwables
+    Tomato = liquid contents, same as if you threw a beaker at them
+~~~ Tomato->Bloodtomato = Gib spam. Don't need to throw, just use in hand
+--- Nettle->Deathnettle = 15 burn, enough acid to melt jumpsuit in 1 throw, but won't remove armor plates
+--- Chili->Ice Chili = Lubes the spot it hits
+ 
+Landmines
+    Slip + Liquid / Hypo = applies reagents in that way to whoever slips the top plant
+?   For hypo only, all reagents are spread equally. Same for thrown hypo needles? cant test both here
+    Hypo THEN liquid added in dna machine = inject first before squashing. Liquid first = only squash
+    Just liquid won't activate on things that won't squash, like logs / cotton
+    Just hypo = keep slipping on only the top one, only 1-2 uses, no point in giant stack
+--- Nettle->Deathnettle acids + Liquid = acid landmine, enough to melt jumpsuit in 1 hit
+--- Nettle->Deathnettle acids + Hypo = Burst damage + acid dot, death in one hit?
+------ sacid + facid = 10u of each, 27 burst brute +  3 tox/tick (75 total) + rising dot burn (32.5 total)
+------ facid alone = 20u facid, 18 burst brute + 2 tox/tick (100 total) + rising dot burn (127.5 total)
+--- Fly Amatia->Destroying Angel = 20u Amanitin = invisible instant kill days later
+~~~ Blood tomatos + Liquid = gib explosion on slip
+--- Mutagen + hypo + liquid = bad mutations even if low potency = caltrops
+--- Cannabis->Omegaweed + hypo = meth / crank / bath salts addiction in one poke? crank = lethal and quiet?
+ 
+On-pick pranks
+--- Watermelon water + Banana potassium + max potency = instagib
+?~~ Watermelon water + Banana potassium + ? potency = jumpscare melons? at 10 yield, 29 not enough/ 36 too much
+%%% Pumpkin->Blumpkin + smoke THEN mutagen = instantly mutate dozens of times, or just once? doesnt work,,,
+ 
+Direct inject
+****** Dropper in eyes or Hypospray = instant but visible 5u
+--- Berry->Poisonberry->Deathberry = 5u Coniine, still lethal even with liver
+****** Spraybottle, 10u from pest spray, works on everyone?
+--- Pumpkin->Blumpkin = Mutagen can be sprayed on, more likely the higher the u
+--- Berry->Poisonberry->Deathberry = 8u coniine per spray
+****** Syringe gun if you can steal / make one at medbay
+--- Berry->Poisonberry->Deathberry = 15u Coniine
+****** Tator pen = 40u inject
+--- Fly Amata->Destroying = >=20u Amanitin = Kills the person quietly days later
+--- Nettle->Deathnettle = 40u Fluro acid = guranteed kill
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++ VIRO ++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+Can throw bottle with blood onto a person = injection, so refill a charcoal bottle or glass of juice
++++ Can also use an extinguisher, which is less obvious but more AOE
+++++++ CURE SELF FIRST IF BAD VIRUS, WILL LIKELY HIT SELF
++++ Can also 'inject' with dropper if aim at eyes + no glasses, but obvious, so dont bother
+ 
+1 = Virus food + synaptizine
+2 = Water + Milk
+3 = Mutagen + Virus food
+4 = Mutagen + Virus food + Sugar
+5 = Plasma + Virus food + Synaptizine
+6 = Plasma + Virus food
+7 = Plasma + Virus food + 5 Uranium
+8 = Plasma + 10 uranium + 10 silver / gold
+ 
+Resistance level:
+6 symptoms = -3 cure level, so effective levels are below:
+1-4 = Copper, Silver, Iodine, Iron, Carbon
+5 = Potassium, Ethanol, Lithium, Silicon, Bromine
+6 = Table salt, Sugar, Orange juice, Tomato juice, Milk
+7 = Spaceacillin, Saline-glucose solution, Epinephrine, Charcoal
+8 = Oil, Synaptizine, Mannitol, Space drugs, Cryptobiolin
+9 = Phenol, Inacusiate, Oculine, Antihol
+10 = Leporazine, Mindbreaker toxin, Corazone
+11 = Pax, Happiness, Ephedrine
+12 = Lipolicide, Salicyclic acid
+13 = Haloperidol, Aranesp, Diphenhydramine
+14 = Modafinil, Anacea
+ 
+-Name- :Stlh:Res:Spd:Tran:Lvl:Procs:    Notes
+Nanosymb  0   2   2  -1   7   1-1   +0.5 nanites/tick: 7 speed = 2x per tick
+Silicoly  0   4  -1   1   7   1-1   -0.4 nanites/tick: 7 resist = 3x per tick
+rpprtnsy  0  -2   2  -2   6   1-1?  heals 1/1 damage each tick for food: 7 speed=1/2 hunger, 9 res=conv to tox
+regncoma  0   2  -3  -2   8   1-1   if 70+ damage coma heals 4, sleep=2: 2 stealth=fakedeath, 7 spd=2x pow
+resp      1  -3  -3  -4   6   1-1   7 oxyheal, can breath without internals in space: 8 resist=1u blood refill
+nocturn   2  -1  -2  -1   6   1-1   2/1 heal if dark: 8 speed=2x pow
+starlght -1  -2   0   1   6   1-1   1 heal if near space, or 0.3 if near: 6 trans= 1 nearheal, 6 speed=2x pow
+plasmafx  0   3  -2  -2   8   1-1   absorb plasma to 2 heal and stabletemp: 7 spd=2x pow, 6 trans=4x temprate
+toxoly    0  -2   2  -2   7   1-1   clears reagents by 1?: 6 speed=converts to food, 7 resist=2x pow
+sensrest  0   1  -2   2   4   1-1   heal ear and eye damage
+metabost -1  -2   2   1   7   1-1   applies reagents 2x times, but hungry: 10 speed=3x, 3 stealth=less hunger
+tisshydr  0  -1   0   1   6   1-1   drink water=0.5/1 heal, splash self=2x pow: 7 spd=2x pow
+radiores -1  -2   2  -3   6   1-1   0.25-1.5 heal if irradiated + toxheal: 7 res=2x pow, 6 trans=cloneheal
+mindrest -1  -2   1  -3   5   5-10  heal conf + hallu + brain: 6 res=cure minor braintrait, 9 res=cure major?
+facial    0   3   2   1   4  
+ncrometb  2  -2   1   0   5         effects dead hosts, INCLUDING SNEEZING
+inorgbio -1   4  -2   3   5         effects inorganics = plasmamen or golems
+alopecia  0   1   2   2   4
+adapt     3   5  -3   0   3
+accel    -2  -3   5   3   3
+youth     3   4   4  -4   5
+vitiligo  2   0   3   1   5
+revitil  -1   3   1   2   5
+shiver    0   2   2   2   2  10-30
+fever     0   3   3   2   2  10-30  
+itching   0   3   3   1   1   5-25  messages: 6 trans=1-4 proc, 7 speed=0.5 bruteloss each
+headache -1   4   2   0   1  15-30  invis, messages: 6 speed=25 stamloss, 9 speed=35 stun 30-60 proc
+cough    -1   3   1   2   1   2-15  4 slth=invis, airbrn=spread, 3 res=drop items/10=10% 20 stun, 6 spd=10proc
+sneeze   -2   3   0   4   1   5-35  spread 4: 9 trans=+2 spread, 4 stealth=invis
+halluci  -2  -3  -3  -1   5  25-90
+confus    1  -1  -3   0   4  10-30  8 confused: 6 res=3*pow brainloss(lie), 6 trans=1.5 power, 4 steath=hidden
+deaf     -1  -2  -1  -3   4  25-80  20 deaf: 4 stealth=invis, 9 resist=permanent
+sabo     -2  -3   0  -3   6  60-120 badmut: 5 stealth=stays if cured, 10 speed=20-60 proc, 8 res=2 muts each
+hyph     -1  -4  -4  -3   5  25-80  eventual blindness: 4 stealth=invis early on, 12 resist=removes eyes
+voice    -1  -2  -2   2   6  60-120 changes voice: 3 stlth=invis, 7 speed=25-85 proc, 14 tran=change language
+vomit    -2  -1   0   1   3  25-80  vomit: 4 stealth=invis, 7 res=blood vomit, 7 trans=proj vomit
+loss     -2   2  -2  -2   3  15-45  lowers nutrition: 4 stealth=less messages early
+choke    -3  -2  -2  -4   3  10-30  10-18 oxyloss: 8 speed=7-24 proc, 4 stealth=invis
+combust   1  -4  -4  -4   6  20-75  5 fire+ignite: 4 spd=1.5 pwr, 8 spd=2 pow, 4 slth=invis, 8 tran=spread
+necro    -3  -4   0  -4   6  15-60  15-25 brute: 7 res=5 bleeding, 8 trans=same damage stamloss
+narcolep -1  -2  -3  -4   6  15-80
+dizzy     0  -2  -3  -1   4  15-40  
+analges   2  -2   0  -2   5   5-10  fake fullhp: 4 stlh=invis
++necro   -2  -2   1  -2   7   3-6   6-10 brute: 5 stealth=invis, 7 speed=2 heparine
++combust  2  -2  -2  -2   7  30-90  8 fire/wet boom: 9 res=2 pow 50-140 proc, 8 spd=2x boom, 8 tran=4*pow c3f
++choke   -2   0  -1  -2   7  14-30  15-21 oxyloss: 8 trans=double damage
+ 
+stealthys are youth / adapt 3, vitil / necrometab / +combust / nocturnal / dizzy / analg 2
+resistys are adapt 5, youth / headache / inorgbio / silic 4, fever / itch / facial / revilgo / cough / sneeze 3
+speedys are accel 5, youth 4, vitiligo / fever / itch 3, headach/facial/shiver/alop/metaboost/rapprotsynth 2
+trannys are sneeze 4, accel / inorgbio 3, fever / shiver / alop / revili / cough / voice 2
+ 
+    Healing (not possible to get all 3 best traits, requires 15 speed on 3 symptoms left)
+Spacetorture-only gimmick = coma + resp + spaceheal (-1/-2/0)+ 13 speed = accel + youth + fever/itch
+    Works well, perma regen, heals to full after coma
+torture/spacewalk comaresp = coma 0/2/-3 + resp 1/-3/-3 + 13 speed + 1 stealth = adapt + youth + feve+shiv
+    Can live in space for a very long time w/ no mask. With cuffs = eternal torture but also a good normal heal
+Spreading comaresp = same as above only sneeze instead of shiver
+    Will be visible = less helpful coma, but easier to spread and can track when its maxed out
+### Super NocResp = nocturnal + resp + 12 resist + 13 speed = youth + fever + 5 + 6 = not possible, 1 off
+(Vampire) bloody NocResp = nocturnal + resp + 12 resist = sneezing + cough + fever + itch (neuter all but snez)
+    Refills blood for near instant regen, 2 people = infinite, heal self in darkness
+??? better vamp = resp + nanites + 9 resist + 8 speed = youth 4/4, fever/itch 6/6
+    if you can get nanites,
+(powergame selfheal) NocComa = coma, nocturnal, youth, vitiligo, fever, itch. Get feve-itch first and neuter
+    ? resist, super strong +4 regen in the dark, invis coma???, super fast start time, easyish to make
+(nanite powergame selfheal) coma + nanites + noc + 11 speed + 0 stealth = accel + youth + fever
+    everything meets the criteria, but the nanite boost seems to only be 0.5?
+### test toxconvert=RPT + 11 resist = confirmed doesn't do jack shit
+### test griefheal = RPT, sneeze, nocturnal, fever/accel/shiver, 10 speed = can trade shiver fr cough if neuter
+    Shows up as bad virus, heals slowly but causes weight loss quickly
+ 
+ 
+    Nonlethal / Hyph
+(grief) Easy Eyeremoval hyph = hyph + 16 resist = hyph + youth + inorgbio + sneeze + cough + fever/itch
+    works great, spreads by itself, only need plasma+food+synapt and fever/shiver, ??? cure
+(high grief) stealth eyehyph = hyph + 16 resist + 5 stealth = hyph + adapt + youth + sneeze + vitil + headache
+    neuter vitil / youth / headache / adapt. Cure is ? = steal chem, but slow to act
+(solo target / nontag) hyph + headache + cough + 7 resist + 10 speed = youth + fever + itch
+    Stunspam is annoying, hyph removes eyes, 13 resist, neuter itching or its 'lethal'
+### brain/eyeremoval hyph = hyph + confuse + 17 resist = hyph + youth + adapt + headache + inorgbio + confuse
+    invis, won't spread by itself, but does confusion+brainloss = long term retards. Lipo cure, but slow
+    Doesnt cause brainloss, confusion is minor relative to being blind
+(high grief if no chem) chemless torture= hyph + deaf + 15 resist = hyph + deaf + youth + head + sneeze + adapt
+    ??? cure, perma deafness. if you can steal chem, its fine that hypo isnt eyeloss
+### chemless voicehchangegrief = hyph + deaf + voicechange + 18 trans (15 if no deaf) = not possible
+    highest trans possible is 4 + 3 + 3 + 2
+### Test permatorture = necro + regen coma + 10 speed = necro, regen coma, shiver, fever, itch, ACCEL
+    works, but necro is far too slow to catch up to coma, looooong delay and boring
+ 
+    Lethal (but why bother when uranium is better and always present now)
+Solo-stealth necro = necro + analg + 3 stealth + 13 resist = yuth3/4/4, itch+feve0/3/3, facial0/3/2
+    Works well, fever / itch is loud, but analg makes it so you always seem full hp. Noob killer, ? resist
+Solo-speed bleednecro = necro + 11 resist + speed =  youth, head, fever, itch, cough
+    ? resist, head / cough stuns, visible and curable and noticable
+### Easy Bleedstun necro = necro + all virus food - shiver = necro + sneeze + cough + itch + headache + fever
+    bleed gurantees bloodloss even if healed, sneezing = spread
+### Stam necro = necro + headche + 4-7 speed + 12 trans = necro + hedche + sneeze + accel + inorgbio +feve/shiv
+    even after stam changes doesn't stunlock, damage is low and bleedout is ignorable with brute patches
+### test super combust = combust + 12 speed = combust + youth + vitiligo + fever + *head + itch
+    quick, invis, 10 damage proc, burns off non-backpack clothes, fever / itch loud, ignorable with meds
+### test eternal spreadfire = combust + necrometb + 12 trans=combust + necrometb + sneeze + accel + inorg + fvr
+    works, but weak fire. Infect a lotta monkeys beforehand and spread around, but noticable and slow
+### test super choke = choke + 10 speed = choke + fever + itch + shiver + headache + sneeze
+    eventual lethal, epi stalled
+### test baddies = choke + necro + combust + speed = choke + necro + combust + accel + youth + vitil/itch/fever
+    Could ignore it as a plant with extinguisher, humans may die. Better with speed only probs
+### test speedies = choke + combust + headache + 12 speed = choke + combust + headache + accel + youth + itch
+    Could ignore it as a plant with extinguisher, wasnt very fast uptake either
+ 
+    uranium lethal
+### test strongchoke+= +choke + 10 trans
+    choking was 30-40? damage, knocked me out as soon as lv 5 hit, epi can't save ppl anymore but cpr can?
+    10 trans = airborn = spreads even if you have a mask. Even if you're in full bio gear?
+### super ++choke = +choke + choke + 11 speed +14 trans = not possible, need 5 symptoms to get 14 trans
+### test super ++choke = +choke + choke + 11 speed = that + youth + accel + fever/itch + sneeze
+    1-2 minutes to activate, very noticable but downed me quickly
+### test strong +combust = +combust + 11 resist =
+    looong delay between procs, ~30 damage per proc, had to resist multiple times for each fire, c3f may work
+### test greedy +combust = +combust + 11 resist + 10 trans = snez 3/4, fever3/2, cough 3/2, shivr 2/2
+    c3f is insta removed, but napalm stacks up long after. 70+ damage even with an extinguisher, can't roll out
+### test compare between +necro and speedy +necro
+    speedless = no heparine, did ignorable damage with patches and no bloodloss, speedy was eventual lethal  
+(solo target) super +necro = +necro + 7 stealth + 6 speed = +necro + youth + vitil + analg + itch + fever
+    near instant lvl 5, super fatal levels of damage, loud fever / itch symptoms, super speedy at 14, 6 resist
+(murderbone) spread stealth +necro= +necro + youth + vitil + necrometab + sneeze + analg
+    9 fast, works on dead, invis even while damaging, 1 resist = ez cure, all lv 5 addons = ez, CURE SELF FIRST
+ 
+ 
+ 
+1 = Virus food + synaptizine
+2 = Water + Milk
+3 = Mutagen + Virus food
+4 = Mutagen + Virus food + Sugar
+5 = Plasma + Virus food + Synaptizine
+6 = Plasma + Virus food
+7 = Plasma + Virus food + 5 Uranium
+8 = Plasma + 10 uranium + 10 silver / gold
+ 
+nocturnal doesnt heal in space
+halu sucks
+dizzy weak as fuck, though it does actually make you dizzy slightly in tgyog
+shiver is weak as shit, didn't even slow me down
+same with fever
+choke+ chems do nothing, are long term sleep / stunners but only 3u injected
+narco pretty shitty, only asleep for 4-5 seconds with heavy sleeper after 5 min, headache is more debilitating
+itching did minor damage to monkeys over a very long time, but none to me a plant guy.
+voice change + trans = language change, basically perma muted but not that useful with pda messaging
+NECROMETAB + SNEEZE = INVIS DISEASE SPREADING, stats start at: 0 1 1 4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++ XENO ++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+gold golems faster than regular?
+glass golems = immune to lasers / tazers / burn damage, but triple brute damage
+plasma golem = can stay on fire undamage till they explode? can cast a spell to ignite self?
+brass golems = deafen everyone nearby on taking brute damage
+cardboard golem = can use cardboard on self to reproduce?
+bone golem = can spook other people spell?
+leather = instant hard grab?
+DURATHREAD = punches cause the target to get choked until they resist? or help intent self?
+miasma viruses are annoying af, grind the monkey when you're done with it
+ 
+timestop cameras = rewind camera? returns you to same pos / hp when taken, 10 seconds later?
+------ works, but not hp. suicide bomb run? or if gibbed? generic killing self with tools doesn't revive...
+ 
+ 
+Current Loadouts:
++++ Default:: Gold / Pink rush : 1 adult purple / lightpink / sepia : 10 darkblue 20 blue spam
+    Green into luminecent + bluespace
+    20 blues to get passive purp / lightpink cores, and 10 darkblue to get sepia infinite use timestop
+    Grind till headslug, become it, win
+ 
+--- Evil Generic: Same as default
+ 
+--- Ling memes:: Start as REAL LING : Addy / Lightpink rush
+    Transform sting = BECOME THAT RACE in addition to the name, so
+ 
++++ Big game hunter:: Sepia / Yellow rush : 1 sepia / 4 pink / 2 red adult : 60 yellow / 15 darkblue spam
+    ~40 min if you dont fuck up
+    Sepia + darkblue = stunned megafauna
+    Darkblue + water = fireproof from ash storm, yellow cores into red adults = immune to lava
+    Go to mining, timestop megafauna and feed pink pots, they stand still and die
+ 
+--- Murderbone with friends:: Same as above (>=1 bluespace adult + 10x darkblue cores if no miners)
+    After making friends, shove them in a bluespace bag (one per thing) and release on station
+    If no miners, make / touch with bluespace core and bring them all back at once
+ 
+?-- Suicide Revival:: Same as above + ???
+ 
+--- Insult Shitsec:: Same as above + light pink adults + yellow spam
+    Timestop, give them pacifist potions, mock them for what they are
+ 
+~~~ Golem Expansion (highpop):: Same as above + cerulian/ green spam
+    Spawn golems, give them xeno blueprints, tell them to make the station blue
+ 
+~~~ Golem Turf War (highpop):: Same as above + cerulian / green / pyrite spam
+    Spawn golems, give paint buckets, tell them to paint everything
+    Also maybe war with other golems of different color
+ 
+~~~ Anti-war:: Same as above + silver spam + save 1 more light pink adult
+    Make a silver->light pink factory, eat cookies as people attack eachother, no violence possible
+ 
+------------------------------------------------- NORMAL XENO -------------------------------------------------
+ 
+slime jelly = 0.4u/3 heal = 1u/7.5 heal = 5u/37.5 heal
+ 
+Gray: B -> 3 Monkeycubes, P -> New grey slime, Water -> Epinephrine
+ 
+    Teal(Blue): P -> 50 Frost oil, B -> Less mutation potion (-15%), W -> 100u foam reagent
+    -       ---
+    -       Pink: P -> Friendly / no eating slime potion, B -> Gender potion
+    -           ---
+    --          Light Pink: P -> Sentience potion, W = Rename pot up to 41 chars
+    ---
+    ----
+    --------Blue(Dark Blue): P -> Cold burst, W -> Fireproof clothing potion
+    ----        ---
+    ---     Cerulian: P -> Extract enhancer potion, B -> Xenoextend Blueprints
+    --
+    -
+    Purple: P -> Slime steroid potion (+1 core), B -> 25u Slime jelly = 187.5 total healing
+    -       ---
+    -       Green: P -> Slime-person toxin,  B -> Human toxin, Radium -> Lizard toxin
+    -           ---
+    --          Black: P -> Slimeform toxin
+    ---
+    ----
+    ------- Dark Purple: P -> 3 Plasma bars
+    ----        ---
+    ---     Sepia: P -> Timestop grenade (EFFECTS SELF TOO), B -> Slowing floor tiles, W -> Camera
+    --
+    -
+    Orange: P -> Weak plasmafire grenade, B -> Casapin, W -> 30u Smoke
+    -       ---
+    -       Red: P -> More mutation potion (+12%), B -> Slimerage, W -> Remove slowdown potion
+    -           ---
+    --          Oil: P -> Good explosion grenade
+    ---
+    ----
+    ------- Yellow: P -> Infi power cell, B -> Emp, W -> Flashlight
+    ----        ---
+    ---     White(Bluespace): P -> Bluespace crystal, B -> Speedy floor tiles, W = Mob radio potion
+    --
+    -
+    Metal: P -> 15 Metal + 5 Platsteel (Platsteel can be grinded for plasma + iron if needed)
+    -       ---
+    -       Gold: P -> Hostile alien x5, B -> Friendly Alien x3, W -> Critter
+    -           ---
+    --          Adamantine: P -> Addy bar
+    ---
+    ----
+    ------- Silver: P -> Food (GATFRUIT, roburger), W -> Drinks
+    ----        ---
+    ---     Pyrite: P -> Random infinite use paint can, B -> Random crayon
+    --
+    -
+ 
+    RAINBOW: P -> Random slime, B -> Transfer potion (LINGS), 5u Uranium + 5u Holy Water = Flight potion
+ 
+ 
+ 
+-------------------------------------------------LUMINESSENT-------------------------------------------------
+ 
+Green core + plasma = slime mutation + inject more = randomly change into luminessent = eat cores for powers
+!!! CAN USE INSTANTS WHILE STUNNED
+--- Purple: minor = blood refill / major = 10u jelly = 75 regen
+--- Blue: major = 4 radius foam + clear reagents
+--- Yellow: major = channeled emp
++++ Bluespace: minor = charged blink / major = teleport to recalled location instantly
+--- Pink: major = pax everyone but you for 2u
+--- Sepia: major = channeled timestop
+--- Red: minor = inject ephedrine = speedy and slight stun resist
+--- Green: minor = human form
+--- Gold: minor = friendly mob / major = danger mob & if harm intent will be hostile to non slimes
+--- Oil: minor = vomit lube oil / major = channeled explosion but doesnt gib people nearby
+--- Light Pink: major = spawn intel potion
+~~~ Rainbow: minor = change skin color / major = spawn random core
+ 
+-------------------------------------------------CROSSBREEDING-------------------------------------------------
+ 
+slime jelly = 0.4u/3 heal = 1u/7.5 heal
+ 
+    Grey = feed monkey cubes to a mini core for infinite cores of that color
++++ Grey = infinite monkey cubes, but grey spam works too
+--- Gold = infinite gold cores for telesci, but cerulian / gold spam is better
+--- Blue = infi blue cores for all the good passives
+    Orange = inject 10u plasma and use in hand
+--- Purple = 10u Meth + 30u Regen jelly = 225hp
+--- Yellow = Shock everyone within 4 tiles for 12.5 damage and stun
+??? Sepia = Take selfie, return to same spot 10 seconds later. Works if suicide bomb / gibbed by field gen?
+--- Gold = friendly gold-core spawn that attacks others. 3-5, but can be shit like bees
+--- Black = transform to slime, can turn back human. Bring 2 = armory raid. If human underground, pop up above
++++ Rainbow = rainbow knife of 15 random damage type, including cloning
+    Purple = legion soul + effect
+--- Purple = injected with 10 Jelly afterwards for 75 regen after
+--- Bluespace = teleport to where extract created = safety tele
+--- Sepia = timespot on you, ~2 radius
+--- Black = spawns a naked clone that dies same hp as you last were + oxyloss, decoy body = fake your own death
+--- Rainbow = immortal for 10 sec but pacifist
+    Blue = passive effect if held in backpack
+--- Orange = minor temp stabalizer, +/-15
++++ Purple = 0.2 regen. Doesn't stack
+--- Blue = immune to water slips
+--- Bluespace = Teleport somewhere safe if you take small amount of damage
+--- Cerulian = spawns a duplicate: if you die, you become the duplicate. Can revive friendlies and suicides
+~~~ Pyrite = Constant changing colors like disco ball
+~~~ Green = Change appearance, can reroll with pickup, resets cooldown of slime abilities
+--- Red = Immune to equipment slowdown, AKA addy armor from other things
+--- Oil = Medium explosion on death
++++ Light pink = move fast and keep people in crit safe from dieing
+--- Rainbow = can accept a regen extract and will use on you if crit
+    Metal = constantly makes things if given plasma dust
+--- Purple = 4u plasma for 20u jelly injectors = 150hp
+--- Black = 6u plasma for regen cigs: 20 nicotine + 10 regen jelly = 75 hp
+~~~ Rainbow = 5u plasma for random core
+    Dark Blue = inject 10u plasma and use in hand
+--- Sepia = time stops people you dont touch in advance, still has long duration?
+--- Cerulian = Spawn a naked clone that takes 1 of every damage each tick, resets to you when in crit
+--- Green = replaces arm with armblade that shoots 20u blood to slow people, only 5 damage melee
+~~~ Pink = Pink slime corgi
+--- Light pink = Pacify flower worn on the head, cant be removed by self
+    Yellow = inject 10u plasma and use in hand
+--- Darkblue = spaceproof potion for clothes x2
+~~~ Pyrite = 10 banannium = tons of airhorns
+--- Red = lavaproof potion x2 = lavawalking
+~~~ Pink = love potion = visible hearts, makes them in love with you, WORKS ON MEGAFAUNA
+--- Light pink = pacifist potion, but long use time
+    Silver = feed lots of food to make special slime cookies
+~~~ Light pink = pacify everyone nearby for 10 sec (self too). Can chain-pacify, and lots created at once
+    Cerulian = reusable core of original slime type
+--- Gold = infinite telesci spawns, but normal cores work just as well
+--- Sepia = infinite use timestop grenade, returns to your hand once activated, still friendly fire
+    Pyrite = infinite use paintbrush of slime's color, but same as paintbucket basically
+~~~ Rainbow = choose your color each time
+    rest aint in yet
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++ Signal Wizardy ++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+radio silence?
+only x can talk?
+everyone says x?
+ 
+def process_signal(sig){
+jobs=list("AI", "Toaster", "Admiral", "Assmiral", "Assistant", "GrayPerson", "Atmospheric Technician", "Atmos", "Bartender", "Barman", "Botanist", "Farmer", "Captain", "Condom", "Cargo Technician", "Cargonian", "Chaplain", "Priest", "Chemist", "DrugDealer", "Chief Engineer", "Big Engi Man", "Chief Medical Officer", "CMO", "Clerk", "shopman", "Clown", "FunnyGuy", "Curator", "Curator", "Detective", "Det", "Geneticist", "Gene", "Head of Personnel", "HoP", "Head of Security", "HoShit", "Janitor", "Maid", "Lawyer", "Lawman", "Librarian", "Libtard", "Medical Doctor", "Medic", "Mining Medic", "Miner but healing", "Paramedic", "Running Medic", "Psychiatrist", "Medical Assistant", "Quartermaster", "Cargonia King", "Research Director", "Biggest Nerd", "Roboticist", "RoboNerd", "Scientist", "Nerd", "Security Officer", "ShitSec", "Shaft Miner", "Miner", "Signal Technician", "Local God", "Station Engineer", "Enginier", "Tourist", "Touristione", "Unassigned", "Jobless", "Unknown", "Who?", "Virologist", "Viro", "Warden", "Jail Menager", "Personal AI", "pAI", "Default Cyborg", "Walking Toaster", "Engineering Cyborg", "Enginiering Toaster", "Janitor Cyborg", "Maid Toaster", "Medical Cyborg", "Healing Toaster", "Miner Cyborg", "Mining Toaster", "Peacekeeper Cyborg", "Egg", "Security Cyborg", "Shitcurity Toaster", "Service Cyborg", "Service Toaster", "Standard Cyborg", "Best Toaster");
+ 
+if (sig.job == "Signal Technician") {
+        sig.job     = "Signal Wizard";
+       sig.filters = list(filter_types.commanding);
+    }
+ 
+if (sig.job == "Assistant") {        sig.job     = "Ashishtand";
+       sig.filters = list(filter_types.wacky);
+    }
+if(find(jobs,sig.job)){ sig.job=jobs[find(jobs,sig.job)+1]; }
+ if(find(list("Signal Technician"), sig.job)){ command_headset=1;}
+ sig.source+="["+sig.job+"]";
+return sig;}
